@@ -16,12 +16,16 @@ DIR=$(pwd)
 
 # find all bcdata-src repositories
 find . -name "workshop20*" -print | while read f; do
+    # put the script file in the correct subfolder
+    cp buildSubsite.sh ./$f/scripts/buildSite.sh
     # go to that directory
     cd "$f" &&
 	# run the buildSite script to build the site into e.g. public/2017
-	./scripts/buildSite.sh &&
+	./scripts/buildSubsite.sh &&
 	# move that site from public/2017 to $DIR/2017
-	find ./public -name "20*" -maxdepth 1 | xargs -I '{}' mv {} $DIR
+	find ./public -name "20*" -maxdepth 1 | xargs -I '{}' mv {} $DIR &&
+	# remove the script file
+	rm ./scripts/buildSubsite.sh
 done
 
 
