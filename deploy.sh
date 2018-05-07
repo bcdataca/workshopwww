@@ -21,7 +21,7 @@ find . -name "workshop20*" -print | while read f; do
     # go to that directory
     cd "$f" &&
 	# run the buildSite script to build the site into e.g. public/2017
-	./scripts/buildSubsite.sh &&
+	./scripts/buildSite.sh &&
 	# move that site from public/2017 to $DIR/2017
 	find ./public -name "20*" -maxdepth 1 | xargs -I '{}' mv {} $DIR &&
 	# remove the script file
