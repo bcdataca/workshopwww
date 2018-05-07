@@ -34,3 +34,25 @@ that sits in the home directory of any `workshop20XY/` site. `deploy.sh` calls
 `20XY`. Each `workshop20XY` site repository could have its own GitHub
 repository - `workshop2017` and `workshop2018` each have an eponymous one on the
 `bcdataca` organization.
+
+
+## HTML stuff
+
+Currently, `index.html` is used to re-direct to the 2017 site. Eventually this
+will be changed to the 2018 site and is easy to do.
+
+`CNAME` is a file that must contain only the domain: `workshop.bcdata.ca`. It
+has a matching entry on the namecheap.com domain along with a couple lines there
+that allow namecheap to work with Github Pages.
+
+The `workshop20XY` sites are built using `hugo` and the `academic` theme. Note
+that the `academic` theme is not copied to `origin`, and so the right local
+version must be maintained. Specifically, academic theme version/checkout
+`18ab238` is used by both sites. Note that these sites are not compatible with
+the current version of hugo-academic.
+
+Small note to self: I have made minor changes to that particular checkout;
+however, at the time of this writing (literally a year later), I have some small
+margin of confidence that these same changes are made in the
+`workshop20XY/layouts` folders, too, hence there is nothing to worry about
+probably.
