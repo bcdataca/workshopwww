@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/industry/</link>
+    <description>Recent content in Industry on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Wed, 16 Aug 2017 18:08:08 -0700</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career Panel: Mathematicians in Industry</title>
+      <link>http://workshop.bcdata.ca/2017/post/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/career-panel/</guid>
+      <description>Career panel at Mobify   Summary On the evening of August 16th, BC Data Science workshop participants gathered at Mobify headquarters for a career panel and social event. The panel discussed non-academic career options for mathematicians; how mathematicians should prepare for industry jobs and job interviews; and what differences to expect in industry. More broadly, the panelists discussed career success, personal values, and strategies for achieving career-oriented goals.</description>
+    </item>
+    
+  </channel>
+</rss>

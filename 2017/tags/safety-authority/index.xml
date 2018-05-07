@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safety Authority on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/safety-authority/</link>
+    <description>Recent content in Safety Authority on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/tags/safety-authority/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A risk-based platform for accident prevention</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-2/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-2/</guid>
+      <description>Mentor: Soyean Kim, BC Safety Authority Summary BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems. In addition, it raises awareness and improves understanding and risk knowledge of the potential major incidents and the reliance on critical controls that prevent those accidents from occurring.</description>
+    </item>
+    
+  </channel>
+</rss>

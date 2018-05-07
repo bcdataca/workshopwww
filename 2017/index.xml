@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bcdata on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/</link>
+    <description>Recent content in bcdata on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/2017/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The 2017 bcdata Data Science Workshop</title>
+      <link>http://workshop.bcdata.ca/2017/post/workshop-description/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/workshop-description/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This workshop will host 50 graduate students in mathematics and interested
+industry members for a two week foray into foundational and crucial elements of
+the rapidly expanding field of data science.&lt;/p&gt;
+
+&lt;p&gt;Prior to the workshop will be a &lt;a href=&#34;../prequel-description&#34;&gt;prequel workshop&lt;/a&gt; covering requisite aspects of
+elementary mathematics and programming that will be assumed as background.&lt;/p&gt;
+
+&lt;p&gt;The first week of the workshop will kick-off on Monday morning, 8:30
+AM, with a catered breakfast at the main location, &lt;a href=&#34;https://goo.gl/maps/13QmETxJY5C2&#34; target=&#34;_blank&#34;&gt;UBC Robson
+Square&lt;/a&gt;. The first week will cover
+&lt;a href=&#34;../first-week-lectures&#34;&gt;introductory data science&lt;/a&gt; material through
+morning lectures and afternoon hands-on
+&lt;a href=&#34;../mini-projects&#34;&gt;mini-projects&lt;/a&gt;. There will also be a &lt;a href=&#34;../career-panel&#34;&gt;career
+panel&lt;/a&gt; on Wednesday August 16.&lt;/p&gt;
+
+&lt;p&gt;The second week will cover &lt;a href=&#34;../advanced-topics&#34;&gt;advanced topics in data
+science&lt;/a&gt; through morning lectures hosted by a
+diverse range of professors; and 5 &lt;a href=&#34;../../#projects&#34;&gt;week-long
+projects&lt;/a&gt; in teams of 10, each led by an industry
+mentor.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&#34;../../talk/first-week-schedule&#34;&gt;first week schedule&lt;/a&gt; and &lt;a href=&#34;../../talk/second-week-schedule&#34;&gt;second
+week schedule&lt;/a&gt; are available. For
+lecture notes, code and other workshop materials, please visit the
+&lt;a href=&#34;https://github.com/bcdataca/workshop-content&#34; target=&#34;_blank&#34;&gt;associated GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequential Monte Carlo for Statistical Inference</title>
+      <link>http://workshop.bcdata.ca/2017/talk/sequential-mc-for-inference/</link>
+      <pubDate>Thu, 24 Aug 2017 13:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/sequential-mc-for-inference/</guid>
+      <description>
+
+&lt;p&gt;Note: the talk might be on time-series modelling instead.&lt;/p&gt;
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chbe.ubc.ca/profile/bhushan-gopaluni/&#34; target=&#34;_blank&#34;&gt;Dr. Bhushan Gopaluni&lt;/a&gt; is a
+Professor in the Department of Chemical and Biological Engineering at UBC,
+working with the
+&lt;a href=&#34;http://dais.chbe.ubc.ca/&#34; target=&#34;_blank&#34;&gt;Data Analytics and Intelligent Systems&lt;/a&gt; lab.&lt;/p&gt;
+
+&lt;p&gt;Dr. Gopaluni’s primary research interests are in Process Modeling and
+Control. He is interested in developing and studying the properties of
+data-based models for a variety of chemical and biological systems. These
+systems are typically nonlinear, hybrid and time varying, and their
+measurements are often noisy and irregular. The thrust of his research is on
+developing high quality models for such processes and adapting them to reflect
+process changes. His research interests also span a wide range of other areas
+including identification for control, model predictive controllers, adaptive
+control, and performance monitoring and assessment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Compressed Sensing and Sparse Recovery Techniques</title>
+      <link>http://workshop.bcdata.ca/2017/talk/compressed-sensing-and-applications/</link>
+      <pubDate>Wed, 23 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/compressed-sensing-and-applications/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://benadcock.org/&#34; target=&#34;_blank&#34;&gt;Ben Adcock&lt;/a&gt; is an assistant professor at Simon Fraser
+University.  He studied mathematics at the University of Cambridge, receiving
+his BA in 2005, his MMath in 2006, and his PhD in 2011. He held NSERC and PIMS
+postdoctoral fellowships at Simon Fraser University from 2010 to 2012, and was
+an assistant professor in the Department of Mathematics at Purdue University
+from 2012 to 2014, before returning to Canada in August of that year.  He was
+the recipient of a Leslie Fox Prize in Numerical Analysis in 2011, an Alfred
+P. Sloan Research Fellowship in 2015 and the CAIMS-PIMS Early Career Award
+in 2017.  His research interests include applied and computational harmonic
+analysis, numerical analysis and approximation theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring the Past for Traits that Alter Speciation and Extinction</title>
+      <link>http://workshop.bcdata.ca/2017/talk/inferring-traits-speciation-extinction/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/inferring-traits-speciation-extinction/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zoology.ubc.ca/~otto/&#34; target=&#34;_blank&#34;&gt;Sarah (Sally) P. Otto&lt;/a&gt;. University Killam &amp;amp; CRC (Tier 1) Professor, Department of Zoology &amp;amp; Director, Liber Ero Post-doctoral Program, University of British Columbia; B.Sc. and Ph.D. from Stanford University. Understanding how evolution has led to the remarkable diversity of life is the key motivating force behind my research. Mathematical models allow us to determine which evolutionary transitions are plausible, which are probable, and which are inaccessible. Complementing this theoretical approach, we use experimental evolution to track yeast as they evolve, allowing us to test alternative hypotheses. Dr. Otto’s research into the evolutionary forces leading to biological diversity has resulted in over 170 publications and a book. Awards include a MacArthur Fellowship, a Guggenheim Fellowship, the Steacie Prize (National Research Council, Canada), and fellowship in the Royal Society of Canada, the American Academy of Arts and Sciences, and the National Academy of Sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science in Linguistics: Extracting Phonotactics from Word Lists</title>
+      <link>http://workshop.bcdata.ca/2017/talk/extracting-phonotactics/</link>
+      <pubDate>Tue, 22 Aug 2017 10:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/extracting-phonotactics/</guid>
+      <description>
+
+&lt;h3 id=&#34;speaker-bio&#34;&gt;Speaker Bio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://people.math.sfu.ca/~tupper/Homepage/Welcome.html&#34; target=&#34;_blank&#34;&gt;Dr. Paul Tupper&lt;/a&gt; is
+Professor of Mathematics at SFU. His major interest is applying mathematics of
+various sorts to problems in linguistics and psychology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second week schedule</title>
+      <link>http://workshop.bcdata.ca/2017/talk/second-week-schedule/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/second-week-schedule/</guid>
+      <description>
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;The second week material will take place downtown at the &lt;a href=&#34;https://goo.gl/maps/bfi4kpC4ubM2&#34; target=&#34;_blank&#34;&gt;UBC Robson Street&lt;/a&gt; campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a &lt;a href=&#34;http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png&#34; target=&#34;_blank&#34;&gt;UBC Robson floor plan&lt;/a&gt; is available. For more information on the advanced lecture material, visit the abstracts linked to in the schedule below. For lecture notes and associated materials, visit the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/2-second-week/notes&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt; for the workshop.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-1-monday-august-21&#34;&gt;Day 1: Monday August 21&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;10:24&lt;/td&gt;
+&lt;td&gt;Outside&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21%2C_2017&#34; target=&#34;_blank&#34;&gt;Solar eclipse!&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Industry Mentor Presentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-2/&#34;&gt;Soyean Kim&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;12:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Industry Mentor Presentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-4/&#34;&gt;Nathan Vadeboncoeur&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:30&lt;/td&gt;
+&lt;td&gt;13:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:30&lt;/td&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Industry Mentor Presentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-1/&#34;&gt;Roger Donaldson&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Industry Mentor Presentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-5/&#34;&gt;Borhan Sanandaji&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;17:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Industry Mentor Presentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-3/&#34;&gt;Cory Simon&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-2-tuesday-august-22&#34;&gt;Day 2: Tuesday August 22&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Advanced Lecture&lt;/td&gt;
+&lt;td&gt;Paul Tupper&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../extracting-phonotactics&#34;&gt;Data Science in Linguistics: Extracting Phonotactics from Word Lists&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Advanced Lecture&lt;/td&gt;
+&lt;td&gt;Sally Otto&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../inferring-traits-speciation-extinction&#34;&gt;Inferring the Past for Traits that Alter Speciation and Extinction&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Capstone Group Projects&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-3-wednesday-august-23&#34;&gt;Day 3: Wednesday August 23&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Advanced Lecture&lt;/td&gt;
+&lt;td&gt;Ben Adcock&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../compressed-sensing-and-applications/&#34;&gt;An Introduction to Compressed Sensing and Sparse Recovery Techniques&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Capstone Group Projects&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-4-thursday-august-24&#34;&gt;Day 4: Thursday August 24&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Capstone Group Projects&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Advanced Lecture&lt;/td&gt;
+&lt;td&gt;Bhushan Gopaluni&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../sequential-mc-for-inference&#34;&gt;Sequential Monte Carlo for Statistical Inference&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Capstone Group Projects&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-5-friday-august-25&#34;&gt;Day 5: Friday August 25&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Team&lt;/th&gt;
+&lt;th&gt;Project&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00&lt;/td&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Capstone Group Projects&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;13:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:30&lt;/td&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Group Project Presentation&lt;/td&gt;
+&lt;td&gt;BC Safety Authority&lt;/td&gt;
+&lt;td&gt;A Risk-Based Platform for Accident Prevention&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Group Project Presentation&lt;/td&gt;
+&lt;td&gt;Smart Shores&lt;/td&gt;
+&lt;td&gt;High-Resolution Shoreline data for Flood Protection and Environmental Conservation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Group Project Presentation&lt;/td&gt;
+&lt;td&gt;Midvale&lt;/td&gt;
+&lt;td&gt;Data-Driven Modeling of Video Compression&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Coffee Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Group Project Presentation&lt;/td&gt;
+&lt;td&gt;Mojio&lt;/td&gt;
+&lt;td&gt;Data Insights from Vehicle Time Series Messages&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;16:00&lt;/td&gt;
+&lt;td&gt;16:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Group Project Presentation&lt;/td&gt;
+&lt;td&gt;Altius Institute&lt;/td&gt;
+&lt;td&gt;Elucidating Enhancer-Promoter Gene Expression Using ConvNets&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;17:00&lt;/td&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Reception&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2: Advanced Topics</title>
+      <link>http://workshop.bcdata.ca/2017/post/advanced-topics/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/advanced-topics/</guid>
+      <description>
+
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;In the mornings of the second week of the workshop, we will host advanced lectures on topics pertaining to data science. These talks are expected to be more academic in nature, showcasing research and research tools used by professors in either academia or industry. Speaker bios and abstracts can be found below. For lectures notes and other materials, please visit the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/2-second-week/notes&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt; for the workshop.&lt;/p&gt;
+
+&lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;
+
+&lt;h3 id=&#34;inferring-the-past-for-traits-that-alter-speciation-and-extinction-talk-inferring-traits-speciation-extinction&#34;&gt;&lt;a href=&#34;../../talk/inferring-traits-speciation-extinction&#34;&gt;Inferring the Past for Traits that Alter Speciation and Extinction&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Sarah Otto (&lt;a href=&#34;http://www.zoology.ubc.ca/~otto/&#34; target=&#34;_blank&#34;&gt;UBC Zoology&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;an-introduction-to-compressed-sensing-and-sparse-recovery-techniques-talk-compressed-sensing-and-applications&#34;&gt;&lt;a href=&#34;../../talk/compressed-sensing-and-applications&#34;&gt;An Introduction to Compressed Sensing and Sparse Recovery Techniques&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Ben Adcock (&lt;a href=&#34;https://benadcock.org/&#34; target=&#34;_blank&#34;&gt;SFU Mathematics&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;sequential-monte-carlo-for-statistical-inference-talk-sequential-mc-for-inference&#34;&gt;&lt;a href=&#34;../../talk/sequential-mc-for-inference&#34;&gt;Sequential Monte Carlo for Statistical Inference&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Bhushan Gopaluni (&lt;a href=&#34;http://dais.chbe.ubc.ca/&#34; target=&#34;_blank&#34;&gt;DAIS Lab&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&#34;data-science-in-linguistics-extracting-phonotactics-from-word-lists-talk-extracting-phonotactics&#34;&gt;&lt;a href=&#34;../../talk/extracting-phonotactics&#34;&gt;Data Science in Linguistics: Extracting Phonotactics from Word Lists&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Dr. Paul Tupper (&lt;a href=&#34;http://people.math.sfu.ca/~tupper/Homepage/Welcome.html&#34; target=&#34;_blank&#34;&gt;SFU Mathematics&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Career Panel: Mathematicians in Industry</title>
+      <link>http://workshop.bcdata.ca/2017/post/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/career-panel/</guid>
+      <description>
+
+&lt;h2 id=&#34;career-panel-at-mobify&#34;&gt;Career panel at Mobify&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ctOFh51xzmM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;On the evening of August 16th, BC Data Science workshop participants
+gathered at &lt;a href=&#34;https://goo.gl/maps/aVGFmNH1huB2&#34; target=&#34;_blank&#34;&gt;Mobify headquarters&lt;/a&gt;
+for a career panel and social event. The panel discussed non-academic
+career options for mathematicians; how mathematicians should prepare
+for industry jobs and job interviews; and what differences to expect
+in industry. More broadly, the panelists discussed career success,
+personal values, and strategies for achieving career-oriented goals.&lt;/p&gt;
+
+&lt;p&gt;The panel included recent graduates in mathematics/statistics now
+working in industry, as well as a senior manager at Amazon who
+interfaces with &amp;mdash; and hires &amp;mdash; mathematicians and computer
+scientists. The Q&amp;amp;A session was followed by a lively social with
+complementary food and beverage.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;, Ph.D. Mathematics (CalTech)&lt;br /&gt;
+Research Scientist at Amazon Vancouver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Roger Donaldson&lt;/strong&gt;, Ph.D. Mathematics (CalTech)
+Technical Consultant at Midvale Applied Mathematics Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;, Ph.D. Applied Mathematics (Western University)
+Data Scientist at BuildDirect Technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Megan McCorquodale&lt;/strong&gt;, M.Sc. Statistics (SFU)&lt;br /&gt;
+Data Scientist, Absolute Software&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zak Islam&lt;/strong&gt;&lt;br /&gt;
+Sr. Manager, AWS Messaging at Amazon Web Services&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;career-panel-takeaways&#34;&gt;Career panel takeaways&lt;/h2&gt;
+
+&lt;p&gt;A collection of resources mentioned by the panelists that could be
+useful to those contemplating industry.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/DataforGood-Vancouver/about/&#34; target=&#34;_blank&#34;&gt;Data for Good&lt;/a&gt;
+(Vancouver Chapter)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theleanstartup.com/&#34; target=&#34;_blank&#34;&gt;The Lean Startup&lt;/a&gt; was recommended by
+Zak as a good book for business-related material important for
+consultancy and startups.&lt;/li&gt;
+&lt;li&gt;Brian Wetton offered resources to IAM students for new indepedent
+group projects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For a &lt;strong&gt;very useful&lt;/strong&gt; and developed (esp. for UBC students) list of takeaways and other notes, see Curt da Silva&amp;rsquo;s &lt;a href=&#34;https://github.com/curtd/BCDataTakeaways/blob/master/README.md&#34; target=&#34;_blank&#34;&gt;BCDataTakeaways readme&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Career Panel</title>
+      <link>http://workshop.bcdata.ca/2017/talk/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/career-panel/</guid>
+      <description>
+
+&lt;h2 id=&#34;career-panel-at-mobify&#34;&gt;Career panel at Mobify&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ctOFh51xzmM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;On the evening of August 16th, BC Data Science workshop participants
+gathered at &lt;a href=&#34;https://goo.gl/maps/aVGFmNH1huB2&#34; target=&#34;_blank&#34;&gt;Mobify headquarters&lt;/a&gt;
+for a career panel and social event. The panel discussed non-academic
+career options for mathematicians; how mathematicians should prepare
+for industry jobs and job interviews; and what differences to expect
+in industry. More broadly, the panelists discussed career success,
+personal values, and strategies for achieving career-oriented goals.&lt;/p&gt;
+
+&lt;p&gt;The panel included recent graduates in mathematics/statistics now
+working in industry, as well as a senior manager at Amazon who
+interfaces with &amp;mdash; and hires &amp;mdash; mathematicians and computer
+scientists. The Q&amp;amp;A session was followed by a lively social with
+complementary food and beverage.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;, Ph.D. Mathematics (CalTech)&lt;br /&gt;
+Research Scientist at Amazon Vancouver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Roger Donaldson&lt;/strong&gt;, Ph.D. Mathematics (CalTech)
+Technical Consultant at Midvale Applied Mathematics Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;, Ph.D. Applied Mathematics (Western University)
+Data Scientist at BuildDirect Technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Megan McCorquodale&lt;/strong&gt;, M.Sc. Statistics (SFU)&lt;br /&gt;
+Data Scientist, Absolute Software&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zak Islam&lt;/strong&gt;&lt;br /&gt;
+Sr. Manager, AWS Messaging at Amazon Web Services&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Mini-project Information</title>
+      <link>http://workshop.bcdata.ca/2017/post/mini-projects/</link>
+      <pubDate>Mon, 14 Aug 2017 13:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/mini-projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;See below for information on the mini-projects from the first week.&lt;/p&gt;
+
+&lt;h3 id=&#34;submitting-your-mini-project-solution&#34;&gt;Submitting your mini-project solution&lt;/h3&gt;
+
+&lt;p&gt;If you participated in the mini-projects in the first week and you have a solution to a problem that you&amp;rsquo;d like to share (maybe it&amp;rsquo;s coded well, maybe its found something new, or maybe nobody&amp;rsquo;s yet submitted a solution for that problem yet), then we encourage you to submit that solution as a &lt;a href=&#34;https://yangsu.github.io/pull-request-tutorial/&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; to the master branch of the &lt;a href=&#34;https://github.com/bcdataca/workshop-content&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;workshop-content&lt;/code&gt;&lt;/a&gt; repository.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-1-regression&#34;&gt;Day 1: Regression&lt;/h2&gt;
+
+&lt;p&gt;On the first day, Lee covered several regression exercises related to Isabell&amp;rsquo;s material in the morning. For this notebook, we used the red and white wine quality data sets. The Jupyter notebook is &lt;a href=&#34;https://github.com/bcdataca/workshop-content/blob/master/1-first-week/mini-projects/1-regression/bcdata%2BData%2BScience%2BWorkshop%2BRegression%2B.ipynb&#34; target=&#34;_blank&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-2-matrix-completion&#34;&gt;Day 2: Matrix Completion&lt;/h2&gt;
+
+&lt;p&gt;On Tuesday afternoon, Aaron took us through a &lt;a href=&#34;https://gist.github.com/asberk/8c8fd1e7f384df0183b8f01423c07a55#file-matrix_completion_master-ipynb&#34; target=&#34;_blank&#34;&gt;notebook on matrix completion&lt;/a&gt; with theoretical background and exercises.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-3-neural-networks&#34;&gt;Day 3: Neural networks&lt;/h2&gt;
+
+&lt;p&gt;On Wednesday afternoon, Aaron took us through a sequence of &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/1-first-week/mini-projects/3-neural-networks&#34; target=&#34;_blank&#34;&gt;notebooks on neural networks&lt;/a&gt;, which built on the morning&amp;rsquo;s material covered by Isabell. This afternoon featured &lt;code&gt;keras&lt;/code&gt; and &lt;code&gt;tensorflow&lt;/code&gt;, convolutional networks and the most elementary aspect of stream processing.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-4-data-wrangling&#34;&gt;Day 4: Data wrangling&lt;/h2&gt;
+
+&lt;p&gt;On Thursday afternoon, Roger Donaldson took us through &lt;a href=&#34;https://github.com/bcdataca/workshop-content/blob/master/1-first-week/mini-projects/4-video-compression/BrowsingData.ipynb&#34; target=&#34;_blank&#34;&gt;his workflow&lt;/a&gt; in &lt;code&gt;bash&lt;/code&gt; and GUI-based spreadsheet programs to understand new data.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-5-pyspark-on-aws&#34;&gt;Day 5: &lt;code&gt;pyspark&lt;/code&gt; on AWS&lt;/h2&gt;
+
+&lt;p&gt;On Friday afternoon, Aaron took us through a few examples in &lt;code&gt;pyspark&lt;/code&gt; related to the morning&amp;rsquo;s material on Software Tools for Data Science. Answers for the notebook are &lt;a href=&#34;https://github.com/bcdataca/workshop-content/blob/master/1-first-week/mini-projects/5-spark-aws/introduction-pyspark-local-master.ipynb&#34; target=&#34;_blank&#34;&gt;available here&lt;/a&gt;; the notebook with unanswered exercises is &lt;a href=&#34;https://github.com/bcdataca/workshop-content/blob/master/1-first-week/mini-projects/5-spark-aws/introduction-pyspark-local-skeleton.ipynb&#34; target=&#34;_blank&#34;&gt;available here&lt;/a&gt;. A quick example of using &lt;a href=&#34;https://github.com/bcdataca/workshop-content/blob/master/1-first-week/mini-projects/5-spark-aws/Tensorflow%20on%20GPU.ipynb&#34; target=&#34;_blank&#34;&gt;tensorflow on a GPU&lt;/a&gt; was also showcased on this afternoon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Lecture Syllabus</title>
+      <link>http://workshop.bcdata.ca/2017/post/first-week-lectures/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/first-week-lectures/</guid>
+      <description>
+
+&lt;h2 id=&#34;focus&#34;&gt;Focus&lt;/h2&gt;
+
+&lt;p&gt;Interactive lectures on introductory topics in data science will comprise the
+mronings of the first week of the workshop. The first three lectures will be
+led by
+&lt;a href=&#34;https://www.ischool.berkeley.edu/people/isabell-konrad&#34; target=&#34;_blank&#34;&gt;Isabell Konrad&lt;/a&gt; and
+will cover classification, regression, clustering and neural
+networks. Thursday&amp;rsquo;s lecture by &lt;a href=&#34;http://epims.med.ubc.ca/our-team/faculty/yinshan-zhao/&#34; target=&#34;_blank&#34;&gt;Yinshan Zhao&lt;/a&gt; will cover hypothesis testing and experimental
+design, while Friday&amp;rsquo;s lecture by Michael Reid will showcase modern software
+tools for data scientists.&lt;/p&gt;
+
+&lt;p&gt;For the first week schedule, please visit &lt;a href=&#34;../../talk/first-week-schedule&#34;&gt;this page&lt;/a&gt;; and for first week notes, please visit the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/1-first-week/notes&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt; for the workshop.&lt;/p&gt;
+
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+
+&lt;h3 id=&#34;linear-and-logistic-regression&#34;&gt;Linear and Logistic regression.&lt;/h3&gt;
+
+&lt;p&gt;We will understand the first machine learning algorithm Linear Regression. We
+talk about train-test-split, normalization of the data, the problem of
+overfitting and regularization. A short code example shows how to use these
+tools in practice (using scikit-learn). We introduce classification in contrast
+to regression, and discuss key metrics like accuracy, precision and recall. We
+talk about the Logistic Regression classifier and show a short code example.&lt;/p&gt;
+
+&lt;p&gt;Notes and Jupyter notebooks for this content are available on the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/1-first-week/1-regression-classification&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;important-classifiers&#34;&gt;Important classifiers.&lt;/h3&gt;
+
+&lt;p&gt;The classifiers Decision Trees and K-Nearest-Neighbours will be covered, as
+well as ensemble methods like Bagging and Random Forests. In a short code
+example the application of the classifiers is demonstrated (scikit-learn).&lt;/p&gt;
+
+&lt;p&gt;Notes and Jupyter notebooks for this content are available on the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/1-first-week/2-important-classisfiers&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;neural-networks&#34;&gt;Neural Networks.&lt;/h3&gt;
+
+&lt;p&gt;This lecture is about Neural Networks with various add-ons, as well as feature
+engineering and a short code example in TensorFlow.&lt;/p&gt;
+
+&lt;p&gt;Notes and Jupyter notebooks for this content are available on the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/1-first-week/3-neural-networks&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;hypothesis-testing-and-experimental-design&#34;&gt;Hypothesis testing and experimental design.&lt;/h3&gt;
+
+&lt;p&gt;Firstly, we will discuss the purpose of hypothesis testing and learn how to do it. Through examples, we will introduce basic concepts, testing procedures, common misinterpretations and connection between hypothesis testing and estimation. Then we will discuss statistical considerations in study designs, such as sampling, controls, randomization, sample size and power. Finally, we will look into multiple testing procedures.&lt;/p&gt;
+
+&lt;h3 id=&#34;modern-software-tools-for-data-scientists&#34;&gt;Modern Software Tools for Data Scientists.&lt;/h3&gt;
+
+&lt;p&gt;This lecture will cover the “plumbing” of data science — the software used for data ingestion, cleaning, storage, and analysis. We will provide an overview of the tools currently used by enterprises ingesting hundreds of thousand events per second and handling petabytes of data. Attendees will have a hands-on introduction to the machine learning tools used in industry, including distributed processing with AWS and Apache Spark. We also look into the future at the new generation of native stream processing platforms, used for real-time machine learning.&lt;/p&gt;
+
+&lt;p&gt;Slides from this lecture are &lt;a href=&#34;https://github.com/bcdataca/workshop-content/raw/master/1-first-week/5-software-tools/Software%20Tools%20in%20Data%20Science%20Presentation.pptx&#34; target=&#34;_blank&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First week schedule</title>
+      <link>http://workshop.bcdata.ca/2017/talk/first-week-schedule/</link>
+      <pubDate>Mon, 14 Aug 2017 08:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/first-week-schedule/</guid>
+      <description>
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;The first week material will take place downtown at the &lt;a href=&#34;https://goo.gl/maps/bfi4kpC4ubM2&#34; target=&#34;_blank&#34;&gt;UBC Robson Street&lt;/a&gt; campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a &lt;a href=&#34;http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png&#34; target=&#34;_blank&#34;&gt;UBC Robson floor plan&lt;/a&gt; is available. The &lt;a href=&#34;../../post/first-week-lectures&#34;&gt;lecture syllabus&lt;/a&gt; provides more detailed information on the material covered in first week lectures, and the &lt;a href=&#34;https://github.com/bcdataca/workshop-content/tree/master/1-first-week/notes&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt; for the workshop contains lecture notes and associated materials.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-1-monday-august-14&#34;&gt;Day 1: Monday August 14&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;08:30&lt;/td&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;Atrium&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Linear and logistic regression I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Linear and logistic regression II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Exercise presentation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Group exercises&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-2-tuesday-august-15&#34;&gt;Day 2: Tuesday August 15&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Important classifiers I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Important classifiers II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Exercise presentation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Group exercises&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-3-wednesday-august-16&#34;&gt;Day 3: Wednesday August 16&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Neural networks I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Neural networks II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Exercise presentation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Group exercises&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/7isTY9CU5232&#34; target=&#34;_blank&#34;&gt;Mobify&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Panel discussion&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;21:00&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/7isTY9CU5232&#34; target=&#34;_blank&#34;&gt;Mobify&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Reception&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-4-thursday-august-17&#34;&gt;Day 4: Thursday August 17&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Hypothesis testing and experimental design I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:35&lt;/td&gt;
+&lt;td&gt;11:25&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Hypothesis testing and experimental design II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:40&lt;/td&gt;
+&lt;td&gt;12:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Hypothesis testing and experimental design III&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Exercise presentation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Group exercises&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-5-friday-august-18&#34;&gt;Day 5: Friday August 18&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Modern software tools for data scientists I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Modern software tools for data scientists II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:30&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;C680&lt;/td&gt;
+&lt;td&gt;Exercise presentation&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;C010, C671, C673, C675, C677&lt;/td&gt;
+&lt;td&gt;Group exercises&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IAM Short Course</title>
+      <link>http://workshop.bcdata.ca/2017/post/prequel-description/</link>
+      <pubDate>Wed, 09 Aug 2017 08:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/prequel-description/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-short-course-in-linear-algebra-and-software-tools&#34;&gt;A short course in linear algebra and software tools&lt;/h2&gt;
+
+&lt;p&gt;There will be an optional short course before the main workshop, covering some
+linear algebra theory combined with an introduction to open source software
+tools for mathematical computing. This short course will run August 9-11 and
+will involve lectures on the theory, combined with computational
+examples. Notes will be posted.&lt;/p&gt;
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;h3 id=&#34;day-1-wednesday-august-9&#34;&gt;Day 1: Wednesday August 9&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00&lt;/td&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;ESB 4133 (PIMS lounge)&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/software/bash/&#34; target=&#34;_blank&#34;&gt;Bash&lt;/a&gt; shell, version control with &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;git&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;http://jupyter.org/&#34; target=&#34;_blank&#34;&gt;Jupyter&lt;/a&gt; notebooks, and programming in &lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34;&gt;Python&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;Linear systems, condition number, sparse direct tehcniques, conjugate gradient (Krylov subspaces) methods and preconditioning&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;ESB 5104&amp;#47;5106&lt;/td&gt;
+&lt;td&gt;Exercises&lt;/td&gt;
+&lt;td&gt;Student exercises related to the day&amp;rsquo;s material.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-2-thursday-august-10&#34;&gt;Day 2: Thursday August 10&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;Scientific computing in Python: &lt;a href=&#34;http://www.numpy.org/&#34; target=&#34;_blank&#34;&gt;NumPy&lt;/a&gt;, &lt;a href=&#34;https://www.scipy.org/&#34; target=&#34;_blank&#34;&gt;SciPy&lt;/a&gt;, &lt;a href=&#34;http://matplotlib.org/&#34; target=&#34;_blank&#34;&gt;matplotlib&lt;/a&gt; and &lt;a href=&#34;http://pandas.pydata.org/&#34; target=&#34;_blank&#34;&gt;pandas&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;Least squares (regression), vector Newton&amp;rsquo;s method, nonlinear optimization (Newton&amp;rsquo;s method, gradient descent).&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;ESB 5104&amp;#47;5106&lt;/td&gt;
+&lt;td&gt;Exercises&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-3-friday-august-11&#34;&gt;Day 3: Friday August 11&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Start&lt;/th&gt;
+&lt;th&gt;End&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;Change of basis (FFT), eigen-analysis, singular value decomposition (principle component analysis)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Lecture&lt;/td&gt;
+&lt;td&gt;Numerical computing with &lt;code&gt;numpy&lt;/code&gt; and basic machine learning with &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;scikit-learn&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;15:00&lt;/td&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;ESB 5104&amp;#47;5106&lt;/td&gt;
+&lt;td&gt;Exercises&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IAM Short Course</title>
+      <link>http://workshop.bcdata.ca/2017/talk/iam-short-course/</link>
+      <pubDate>Wed, 09 Aug 2017 08:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/talk/iam-short-course/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;There will be an optional short course before the main workshop, covering some linear algebra theory combined with an introduction to open source software tools for mathematical computing. This short course will run August 9-11 and will involve lectures on the theory, combined with computational examples. Notes will be posted.&lt;/p&gt;
+
+&lt;p&gt;For information including schedule and location, please visit the &lt;a href=&#34;../../post/prequel-description&#34;&gt;prequel workshop&lt;/a&gt; post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Insights from Vehicle Time Series Messages</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-5/</link>
+      <pubDate>Sun, 06 Aug 2017 11:33:44 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-5/</guid>
+      <description>
+
+&lt;h3 id=&#34;mentor-borhan-sanandaji&#34;&gt;Mentor: Borhan Sanandaji&lt;/h3&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Idea 1:&lt;/strong&gt; Characterize and visualize the make/model/year distribution in the dataset; extend this by characterizing the conditional distribution over the geographical span of the dataset.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Idea 2:&lt;/strong&gt; Determinine the devices in the dataset that have multiple drivers per mojio device&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Idea 3:&lt;/strong&gt; (Optional) Using any of the existing variables in the dataset or outside resources, forecast the battery voltage of the vehicles.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;about-the-data&#34;&gt;About the data&lt;/h3&gt;
+
+&lt;p&gt;~950k device messages each including 158 variables of 166 different cars sampled over 3 week time period.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

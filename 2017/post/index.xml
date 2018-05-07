@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/post/</link>
+    <description>Recent content in Posts on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The 2017 bcdata Data Science Workshop</title>
+      <link>http://workshop.bcdata.ca/2017/post/workshop-description/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/workshop-description/</guid>
+      <description>Overview This workshop will host 50 graduate students in mathematics and interested industry members for a two week foray into foundational and crucial elements of the rapidly expanding field of data science.
+Prior to the workshop will be a prequel workshop covering requisite aspects of elementary mathematics and programming that will be assumed as background.
+The first week of the workshop will kick-off on Monday morning, 8:30 AM, with a catered breakfast at the main location, UBC Robson Square.</description>
+    </item>
+    
+    <item>
+      <title>Week 2: Advanced Topics</title>
+      <link>http://workshop.bcdata.ca/2017/post/advanced-topics/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/advanced-topics/</guid>
+      <description>Description In the mornings of the second week of the workshop, we will host advanced lectures on topics pertaining to data science. These talks are expected to be more academic in nature, showcasing research and research tools used by professors in either academia or industry. Speaker bios and abstracts can be found below. For lectures notes and other materials, please visit the GitHub repository for the workshop.
+Talks Inferring the Past for Traits that Alter Speciation and Extinction Speaker: Dr.</description>
+    </item>
+    
+    <item>
+      <title>Career Panel: Mathematicians in Industry</title>
+      <link>http://workshop.bcdata.ca/2017/post/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/career-panel/</guid>
+      <description>Career panel at Mobify   Summary On the evening of August 16th, BC Data Science workshop participants gathered at Mobify headquarters for a career panel and social event. The panel discussed non-academic career options for mathematicians; how mathematicians should prepare for industry jobs and job interviews; and what differences to expect in industry. More broadly, the panelists discussed career success, personal values, and strategies for achieving career-oriented goals.</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Mini-project Information</title>
+      <link>http://workshop.bcdata.ca/2017/post/mini-projects/</link>
+      <pubDate>Mon, 14 Aug 2017 13:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/mini-projects/</guid>
+      <description>Summary See below for information on the mini-projects from the first week.
+Submitting your mini-project solution If you participated in the mini-projects in the first week and you have a solution to a problem that you&amp;rsquo;d like to share (maybe it&amp;rsquo;s coded well, maybe its found something new, or maybe nobody&amp;rsquo;s yet submitted a solution for that problem yet), then we encourage you to submit that solution as a pull request to the master branch of the workshop-content repository.</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Lecture Syllabus</title>
+      <link>http://workshop.bcdata.ca/2017/post/first-week-lectures/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/first-week-lectures/</guid>
+      <description>Focus Interactive lectures on introductory topics in data science will comprise the mronings of the first week of the workshop. The first three lectures will be led by Isabell Konrad and will cover classification, regression, clustering and neural networks. Thursday&amp;rsquo;s lecture by Yinshan Zhao will cover hypothesis testing and experimental design, while Friday&amp;rsquo;s lecture by Michael Reid will showcase modern software tools for data scientists.
+For the first week schedule, please visit this page; and for first week notes, please visit the GitHub repository for the workshop.</description>
+    </item>
+    
+    <item>
+      <title>IAM Short Course</title>
+      <link>http://workshop.bcdata.ca/2017/post/prequel-description/</link>
+      <pubDate>Wed, 09 Aug 2017 08:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/post/prequel-description/</guid>
+      <description>A short course in linear algebra and software tools There will be an optional short course before the main workshop, covering some linear algebra theory combined with an introduction to open source software tools for mathematical computing. This short course will run August 9-11 and will involve lectures on the theory, combined with computational examples. Notes will be posted.
+Schedule Day 1: Wednesday August 9    Start End Location Title Description     09:00 10:00 ESB 4133 (PIMS lounge) Breakfast    10:00 12:00 ESB 2012 Lecture Bash shell, version control with git and GitHub, Jupyter notebooks, and programming in Python.</description>
+    </item>
+    
+  </channel>
+</rss>

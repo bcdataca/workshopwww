@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/</link>
+    <description>Recent content in Tags on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://workshop.bcdata.ca/2017/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Algebra</title>
+      <link>http://workshop.bcdata.ca/2017/tags/algebra/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://workshop.bcdata.ca/2017/tags/analytics/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Topics</title>
+      <link>http://workshop.bcdata.ca/2017/tags/basic-topics/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/basic-topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomedical</title>
+      <link>http://workshop.bcdata.ca/2017/tags/biomedical/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/biomedical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitrate</title>
+      <link>http://workshop.bcdata.ca/2017/tags/bitrate/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/bitrate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>http://workshop.bcdata.ca/2017/tags/career/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Panel</title>
+      <link>http://workshop.bcdata.ca/2017/tags/career-panel/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/career-panel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>http://workshop.bcdata.ca/2017/tags/classification/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cnn</title>
+      <link>http://workshop.bcdata.ca/2017/tags/cnn/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed</title>
+      <link>http://workshop.bcdata.ca/2017/tags/compressed/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/compressed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Sensing</title>
+      <link>http://workshop.bcdata.ca/2017/tags/compressed-sensing/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/compressed-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing</title>
+      <link>http://workshop.bcdata.ca/2017/tags/computing/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convnets</title>
+      <link>http://workshop.bcdata.ca/2017/tags/convnets/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/convnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolution</title>
+      <link>http://workshop.bcdata.ca/2017/tags/convolution/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/convolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://workshop.bcdata.ca/2017/tags/data/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Description</title>
+      <link>http://workshop.bcdata.ca/2017/tags/description/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/description/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension Reduction</title>
+      <link>http://workshop.bcdata.ca/2017/tags/dimension-reduction/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/dimension-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Design</title>
+      <link>http://workshop.bcdata.ca/2017/tags/experimental-design/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/experimental-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Week</title>
+      <link>http://workshop.bcdata.ca/2017/tags/first-week/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/first-week/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene</title>
+      <link>http://workshop.bcdata.ca/2017/tags/gene/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/gene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Expression</title>
+      <link>http://workshop.bcdata.ca/2017/tags/gene-expression/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/gene-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>http://workshop.bcdata.ca/2017/tags/genetics/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics</title>
+      <link>http://workshop.bcdata.ca/2017/tags/genomics/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Testing</title>
+      <link>http://workshop.bcdata.ca/2017/tags/hypothesis-testing/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/hypothesis-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>http://workshop.bcdata.ca/2017/tags/image-processing/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>http://workshop.bcdata.ca/2017/tags/industry/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference</title>
+      <link>http://workshop.bcdata.ca/2017/tags/inference/</link>
+      <pubDate>Sun, 06 Aug 2017 11:33:44 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>http://workshop.bcdata.ca/2017/tags/jobs/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lectures</title>
+      <link>http://workshop.bcdata.ca/2017/tags/lectures/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear</title>
+      <link>http://workshop.bcdata.ca/2017/tags/linear/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://workshop.bcdata.ca/2017/tags/machine-learning/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematicians</title>
+      <link>http://workshop.bcdata.ca/2017/tags/mathematicians/</link>
+      <pubDate>Wed, 16 Aug 2017 18:08:08 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/mathematicians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling</title>
+      <link>http://workshop.bcdata.ca/2017/tags/modeling/</link>
+      <pubDate>Sun, 06 Aug 2017 11:33:44 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling</title>
+      <link>http://workshop.bcdata.ca/2017/tags/modelling/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Network</title>
+      <link>http://workshop.bcdata.ca/2017/tags/neural-network/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prequel</title>
+      <link>http://workshop.bcdata.ca/2017/tags/prequel/</link>
+      <pubDate>Wed, 09 Aug 2017 08:30:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/prequel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoter</title>
+      <link>http://workshop.bcdata.ca/2017/tags/promoter/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/promoter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>http://workshop.bcdata.ca/2017/tags/regression/</link>
+      <pubDate>Mon, 14 Aug 2017 09:00:00 -0700</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>http://workshop.bcdata.ca/2017/tags/risk/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety Authority</title>
+      <link>http://workshop.bcdata.ca/2017/tags/safety-authority/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/safety-authority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://workshop.bcdata.ca/2017/tags/science/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific</title>
+      <link>http://workshop.bcdata.ca/2017/tags/scientific/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence</title>
+      <link>http://workshop.bcdata.ca/2017/tags/sequence/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://workshop.bcdata.ca/2017/tags/video/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Analytics</title>
+      <link>http://workshop.bcdata.ca/2017/tags/video-analytics/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/video-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>http://workshop.bcdata.ca/2017/tags/workshop/</link>
+      <pubDate>Fri, 25 Aug 2017 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomedical on bcdata</title>
+    <link>http://workshop.bcdata.ca/2018/tags/biomedical/</link>
+    <description>Recent content in Biomedical on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 bcdata.ca</copyright>
+    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2018/tags/biomedical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Port of Metro Vancouver ship interpolation problem</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-3/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/project/project-3/</guid>
+      <description>Mentor: Cameron Wallace Summary TBA</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on bcdata</title>
+    <link>http://workshop.bcdata.ca/2018/tags/</link>
+    <description>Recent content in Tags on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 bcdata.ca</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2018/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://workshop.bcdata.ca/2018/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Algebra</title>
+      <link>http://workshop.bcdata.ca/2018/tags/algebra/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://workshop.bcdata.ca/2018/tags/analytics/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomedical</title>
+      <link>http://workshop.bcdata.ca/2018/tags/biomedical/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/biomedical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cnn</title>
+      <link>http://workshop.bcdata.ca/2018/tags/cnn/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing</title>
+      <link>http://workshop.bcdata.ca/2018/tags/computing/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convnets</title>
+      <link>http://workshop.bcdata.ca/2018/tags/convnets/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/convnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolution</title>
+      <link>http://workshop.bcdata.ca/2018/tags/convolution/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/convolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://workshop.bcdata.ca/2018/tags/data/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Description</title>
+      <link>http://workshop.bcdata.ca/2018/tags/description/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/description/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene</title>
+      <link>http://workshop.bcdata.ca/2018/tags/gene/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/gene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>http://workshop.bcdata.ca/2018/tags/genetics/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics</title>
+      <link>http://workshop.bcdata.ca/2018/tags/genomics/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>http://workshop.bcdata.ca/2018/tags/image-processing/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference</title>
+      <link>http://workshop.bcdata.ca/2018/tags/inference/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear</title>
+      <link>http://workshop.bcdata.ca/2018/tags/linear/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://workshop.bcdata.ca/2018/tags/machine-learning/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling</title>
+      <link>http://workshop.bcdata.ca/2018/tags/modeling/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling</title>
+      <link>http://workshop.bcdata.ca/2018/tags/modelling/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>http://workshop.bcdata.ca/2018/tags/online/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Modeling</title>
+      <link>http://workshop.bcdata.ca/2018/tags/probabilistic-modeling/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/probabilistic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoter</title>
+      <link>http://workshop.bcdata.ca/2018/tags/promoter/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/promoter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>http://workshop.bcdata.ca/2018/tags/risk/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety Authority</title>
+      <link>http://workshop.bcdata.ca/2018/tags/safety-authority/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/safety-authority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>http://workshop.bcdata.ca/2018/tags/sales/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://workshop.bcdata.ca/2018/tags/science/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific</title>
+      <link>http://workshop.bcdata.ca/2018/tags/scientific/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence</title>
+      <link>http://workshop.bcdata.ca/2018/tags/sequence/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>http://workshop.bcdata.ca/2018/tags/workshop/</link>
+      <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

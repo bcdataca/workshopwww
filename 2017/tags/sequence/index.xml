@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequence on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/sequence/</link>
+    <description>Recent content in Sequence on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/tags/sequence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elucidating enhancer-promoter gene expression using ConvNets</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-3/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-3/</guid>
+      <description>Mentor: Cory Simon Summary Different cell types in humans possess approximately the same genome despite having dramatically different functions. Gene regulation is the complex process by which cells selectively synthesize different proteins encoded in their genome. [1] A fundamental understanding of how genes are regulated can lead towards effective treatments for cancers and developmental disorders.
+Enhancers are distal regulatory elements that, in conjunction with a promoter, recruit the proteins required to drive transcription of a gene.</description>
+    </item>
+    
+  </channel>
+</rss>

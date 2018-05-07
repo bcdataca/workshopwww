@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/tags/video/</link>
+    <description>Recent content in Video on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data-driven modeling of video compression</title>
+      <link>http://workshop.bcdata.ca/2017/project/project-1/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/project/project-1/</guid>
+      <description>Mentor: Roger Donaldson, Midvale Applied Mathematics Summary Despite our hand in their design, and hence their seemingly deterministic operation, electronic systems grow ever more complex and are often most simply characterized through measurement-driven modeling. This workshop presents measurements of the rate at which bits are produced as output of a compression algorithm for a digital video camera. The data are produced by presenting the camera with a variety of test scenes, and operating it over a variety of settings.</description>
+    </item>
+    
+  </channel>
+</rss>

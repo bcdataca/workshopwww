@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on bcdata</title>
+    <link>http://workshop.bcdata.ca/2017/home/</link>
+    <description>Recent content in Homes on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca</copyright>
+    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2017/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://workshop.bcdata.ca/2017/home/about/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/about/</guid>
+      <description>About Targeted at graduate students in the Institute of Applied Mathematics at UBC and students at SFU with similar interests, the 2017 bcdata Data Science Workshop has two goals: to bring together top researchers, industry professionals and BC Math students to tackle interesting research and industry problems; and to develop data science literacy in students with strong mathematical skills who may have little or no previous experience in the realm of &amp;ldquo;data science&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Description</title>
+      <link>http://workshop.bcdata.ca/2017/home/info/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/info/</guid>
+      <description>Summary The two-week workshop will include both theoretical and practical components, featuring lectures on the theory of algorithms used in data science and the freeware implementation of these methods. In the first week, data sets from industry and government will be introduced by guest speakers and used as examples data sets for mini-projects. Each data set will lead to a capstone project in the second week.
+Computational work will be done with Jupyter notebooks using bcdata.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://workshop.bcdata.ca/2017/home/posts/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://workshop.bcdata.ca/2017/home/projects/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://workshop.bcdata.ca/2017/home/schedule/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>http://workshop.bcdata.ca/2017/home/sponsorship/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/sponsorship/</guid>
+      <description>       SFU Mathematics     </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://workshop.bcdata.ca/2017/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2017/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

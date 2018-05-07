@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on bcdata</title>
+    <link>http://workshop.bcdata.ca/2018/home/</link>
+    <description>Recent content in Homes on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 bcdata.ca</copyright>
+    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2018/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://workshop.bcdata.ca/2018/home/about/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/about/</guid>
+      <description>About Targeted at students from PIMS institutions with an interest in data science and strong mathematical backgrounds, the 2018 PIMS BC Data Science Workshop has two goals: to bring together top students and industry professionals to tackle interesting research and industry problems; and to develop data science literacy in students with strong mathematical skills who may have little or no previous experience in the realm of &amp;ldquo;data science&amp;rdquo;.
+This workshop will give students experience with data science tools &amp;mdash; such as working with large data sets, statistical inference, and machine learning &amp;mdash; that will be helpful in their research, as well as in their career options after graduation.</description>
+    </item>
+    
+    <item>
+      <title>Description</title>
+      <link>http://workshop.bcdata.ca/2018/home/info/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/info/</guid>
+      <description>Summary This one-week workshop will include both theoretical and practical components. Data sets and problems from industry and government will be introduced by guest speakers.
+Computational work will be done with Jupyter notebooks using bcdata.syzygy.ca. Participants will have the opportunity to work with big data, and learn subsequent analysis motifs using machine learning, data clustering, parameter fitting, and other techniques.
+See below for a detailed schedule. Lecture notes and workshop materials can be found on the associated GitHub repository.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://workshop.bcdata.ca/2018/home/posts/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://workshop.bcdata.ca/2018/home/projects/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://workshop.bcdata.ca/2018/home/schedule/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>http://workshop.bcdata.ca/2018/home/sponsorship/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/sponsorship/</guid>
+      <description>       SFU Mathematics     </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://workshop.bcdata.ca/2018/home/contact/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
