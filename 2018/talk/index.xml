@@ -13,78 +13,59 @@
     
     
     <item>
-      <title>Sequential Monte Carlo for Statistical Inference</title>
-      <link>http://workshop.bcdata.ca/2018/talk/sequential-mc-for-inference/</link>
-      <pubDate>Thu, 24 Aug 2017 13:30:00 -0700</pubDate>
+      <title>Reception</title>
+      <link>http://workshop.bcdata.ca/2018/talk/reception/</link>
+      <pubDate>Fri, 08 Jun 2018 17:00:00 -0700</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/talk/sequential-mc-for-inference/</guid>
-      <description>Note: the talk might be on time-series modelling instead.
-Speaker Bio Dr. Bhushan Gopaluni is a Professor in the Department of Chemical and Biological Engineering at UBC, working with the Data Analytics and Intelligent Systems lab.
-Dr. Gopaluni’s primary research interests are in Process Modeling and Control. He is interested in developing and studying the properties of data-based models for a variety of chemical and biological systems. These systems are typically nonlinear, hybrid and time varying, and their measurements are often noisy and irregular.</description>
+      <guid>http://workshop.bcdata.ca/2018/talk/reception/</guid>
+      <description>Reception Please join us for a post-presentation reception on Friday June 8 at 17:00 in the PIMS Lounge (ESB 4133). Please check back for more information.</description>
     </item>
     
     <item>
-      <title>An Introduction to Compressed Sensing and Sparse Recovery Techniques</title>
-      <link>http://workshop.bcdata.ca/2018/talk/compressed-sensing-and-applications/</link>
-      <pubDate>Wed, 23 Aug 2017 10:00:00 -0700</pubDate>
+      <title>Final presentations</title>
+      <link>http://workshop.bcdata.ca/2018/talk/final-presentations/</link>
+      <pubDate>Fri, 08 Jun 2018 13:00:00 -0700</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/talk/compressed-sensing-and-applications/</guid>
-      <description>Speaker Bio Ben Adcock is an assistant professor at Simon Fraser University. He studied mathematics at the University of Cambridge, receiving his BA in 2005, his MMath in 2006, and his PhD in 2011. He held NSERC and PIMS postdoctoral fellowships at Simon Fraser University from 2010 to 2012, and was an assistant professor in the Department of Mathematics at Purdue University from 2012 to 2014, before returning to Canada in August of that year.</description>
+      <guid>http://workshop.bcdata.ca/2018/talk/final-presentations/</guid>
+      <description>Industry project presentations There will be a lunch for participants and industry mentors in the PIMS Lounge (ESB 4133) from 12:00 &amp;ndash; 13:00. Afterwards, students will present their work to industry mentors in a 20 minute presentation (plus 10 minutes for questions) in ESB 2012. Please see the table below for a schedule.
+Participants: Please send your project titles (and abstracts) to
+aberk@math.ubc.ca before 18:00 on Thursday June 7.</description>
     </item>
     
     <item>
-      <title>Inferring the Past for Traits that Alter Speciation and Extinction</title>
-      <link>http://workshop.bcdata.ca/2018/talk/inferring-traits-speciation-extinction/</link>
-      <pubDate>Tue, 22 Aug 2017 11:00:00 -0700</pubDate>
+      <title>Workshop Dinner</title>
+      <link>http://workshop.bcdata.ca/2018/talk/pizza-dinner/</link>
+      <pubDate>Thu, 07 Jun 2018 18:00:00 -0700</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/talk/inferring-traits-speciation-extinction/</guid>
-      <description>Speaker Bio Sarah (Sally) P. Otto. University Killam &amp;amp; CRC (Tier 1) Professor, Department of Zoology &amp;amp; Director, Liber Ero Post-doctoral Program, University of British Columbia; B.Sc. and Ph.D. from Stanford University. Understanding how evolution has led to the remarkable diversity of life is the key motivating force behind my research. Mathematical models allow us to determine which evolutionary transitions are plausible, which are probable, and which are inaccessible. Complementing this theoretical approach, we use experimental evolution to track yeast as they evolve, allowing us to test alternative hypotheses.</description>
-    </item>
-    
-    <item>
-      <title>Data Science in Linguistics: Extracting Phonotactics from Word Lists</title>
-      <link>http://workshop.bcdata.ca/2018/talk/extracting-phonotactics/</link>
-      <pubDate>Tue, 22 Aug 2017 10:00:00 -0700</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/talk/extracting-phonotactics/</guid>
-      <description>Speaker Bio Dr. Paul Tupper is Professor of Mathematics at SFU. His major interest is applying mathematics of various sorts to problems in linguistics and psychology.</description>
-    </item>
-    
-    <item>
-      <title>Second week schedule</title>
-      <link>http://workshop.bcdata.ca/2018/talk/second-week-schedule/</link>
-      <pubDate>Mon, 21 Aug 2017 09:00:00 -0700</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/talk/second-week-schedule/</guid>
-      <description>Schedule The second week material will take place downtown at the UBC Robson Street campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a UBC Robson floor plan is available. For more information on the advanced lecture material, visit the abstracts linked to in the schedule below. For lecture notes and associated materials, visit the GitHub repository for the workshop.</description>
+      <guid>http://workshop.bcdata.ca/2018/talk/pizza-dinner/</guid>
+      <description>Workshop dinner Please join us for a pizza dinner on Thursday June 7 at 18:00, location TBA. Please check back for more information.</description>
     </item>
     
     <item>
       <title>Career Panel</title>
       <link>http://workshop.bcdata.ca/2018/talk/career-panel/</link>
-      <pubDate>Wed, 16 Aug 2017 18:00:00 -0700</pubDate>
+      <pubDate>Tue, 05 Jun 2018 18:00:00 -0700</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/talk/career-panel/</guid>
-      <description>Career panel at Mobify   Summary On the evening of August 16th, BC Data Science workshop participants gathered at Mobify headquarters for a career panel and social event. The panel discussed non-academic career options for mathematicians; how mathematicians should prepare for industry jobs and job interviews; and what differences to expect in industry. More broadly, the panelists discussed career success, personal values, and strategies for achieving career-oriented goals.</description>
+      <description>Career panel at KPMG   -- Summary On the evening of June 5th, BC Data Science workshop participants will gather at KPMG headquarters for a career panel and social event. The panel discusses non-academic career options for math-inclined folk; how to be prepared for industry jobs and job interviews; and what differences to expect in industry. More broadly, the panelists discussed career success, personal values, and strategies for achieving career-oriented goals.</description>
     </item>
     
     <item>
-      <title>First week schedule</title>
+      <title>Full schedule</title>
       <link>http://workshop.bcdata.ca/2018/talk/first-week-schedule/</link>
-      <pubDate>Mon, 14 Aug 2017 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 04 Jun 2018 08:00:00 -0700</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/talk/first-week-schedule/</guid>
-      <description>Schedule The first week material will take place downtown at the UBC Robson Street campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a UBC Robson floor plan is available. The lecture syllabus provides more detailed information on the material covered in first week lectures, and the GitHub repository for the workshop contains lecture notes and associated materials.</description>
+      <description>Schedule The introductory and closing remarks of the workshop will take place in the UBC Earth Sciences Building, as per the schedule below. The projects for the workshop will take place in the UBC Orchard Commons building. Event rooms at this location will be clarified in the table below or during the introductory remarks. Relevant content for each project can be found in the GitHub repository for the workshop, and on bcdata.</description>
     </item>
     
     <item>
-      <title>IAM Short Course</title>
-      <link>http://workshop.bcdata.ca/2018/talk/iam-short-course/</link>
-      <pubDate>Wed, 09 Aug 2017 08:00:00 -0700</pubDate>
+      <title>Registration deadline</title>
+      <link>http://workshop.bcdata.ca/2018/talk/registration-deadline/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/talk/iam-short-course/</guid>
-      <description>Summary There will be an optional short course before the main workshop, covering some linear algebra theory combined with an introduction to open source software tools for mathematical computing. This short course will run August 9-11 and will involve lectures on the theory, combined with computational examples. Notes will be posted.
-For information including schedule and location, please visit the prequel workshop post.</description>
+      <guid>http://workshop.bcdata.ca/2018/talk/registration-deadline/</guid>
+      <description>The deadline for registration for the workshop is 15 May 2018. To register for the workshop and the pre-workshop, please visit the link above.</description>
     </item>
     
   </channel>

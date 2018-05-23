@@ -130,6 +130,24 @@
     </item>
     
     <item>
+      <title>Geology</title>
+      <link>http://workshop.bcdata.ca/2018/tags/geology/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/geology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geophysics</title>
+      <link>http://workshop.bcdata.ca/2018/tags/geophysics/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/geophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Image Processing</title>
       <link>http://workshop.bcdata.ca/2018/tags/image-processing/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
@@ -162,6 +180,15 @@
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining</title>
+      <link>http://workshop.bcdata.ca/2018/tags/mining/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/mining/</guid>
       <description></description>
     </item>
     
@@ -225,15 +252,6 @@
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/safety-authority/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sales</title>
-      <link>http://workshop.bcdata.ca/2018/tags/sales/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/sales/</guid>
       <description></description>
     </item>
     
