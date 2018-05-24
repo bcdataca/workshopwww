@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bigdata on bcdata</title>
-    <link>http://workshop.bcdata.ca/2018/tags/bigdata/</link>
-    <description>Recent content in Bigdata on bcdata</description>
+    <title>Clustering on bcdata</title>
+    <link>http://workshop.bcdata.ca/2018/tags/clustering/</link>
+    <description>Recent content in Clustering on bcdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 bcdata.ca</copyright>
     <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://workshop.bcdata.ca/2018/tags/bigdata/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://workshop.bcdata.ca/2018/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>http://workshop.bcdata.ca/2018/project/project-5/</guid>
       <description>Mentor: Graham Nelson-Zutter, CloudPBX Summary Canada is a member of the G8 and like other leading industrialized nations it offers relatively high speed and stable internet access to the to the majority of its urban population. As with other G8 citizens, Canadians benefit from all of the modern services that the high speed internet access can provide. Among many other real-time services on the internet, voice-over-IP (VoIP) is quickly becoming a prefered way for Canadians and Canadian businesses to access telephone services.</description>
-    </item>
-    
-    <item>
-      <title>Predicting heavy equipment failure.</title>
-      <link>http://workshop.bcdata.ca/2018/project/project-1/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/project/project-1/</guid>
-      <description>Mentor: Liezl Van Wyk and Vien Dang, SSR Mining Summary Innovation challenge Using data to proactively predict Equipment Failure prior to the actual failure event occurs by using equipment production, maintenance &amp;amp; alerts information.
-Challenge Description Equipment downtime is the time a piece of equipment is taken out of service for planned or unplanned maintenance work. While downtime is costly in general, unplanned downtime can cost up to seven times more than planned downtime and is disruptive to the production cycle due to its unpredictability.</description>
     </item>
     
   </channel>
