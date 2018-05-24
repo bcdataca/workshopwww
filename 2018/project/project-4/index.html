@@ -38,7 +38,7 @@
 
   
 
-  <title>Analyzing sentiment and constructing automated knowledge bases for online help chats. | bcdata</title>
+  <title>Determining intent and automating knowledge base creation from live chat transcripts. | bcdata</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -160,14 +160,14 @@
   
   <div class="article-header">
     <img src="/2018/img//proj/comm100/bg1.jpg" class="article-banner" itemprop="image">
-    <span class="article-header-caption">Analyzing user sentiment and constructing automated knowledge bases from online chat logs.</span>
+    <span class="article-header-caption">Determining intent and automating knowledge base creation from live chat transcripts.</span>
   </div>
   
 
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Analyzing sentiment and constructing automated knowledge bases for online help chats.</h1>
+      <h1 itemprop="name">Determining intent and automating knowledge base creation from live chat transcripts.</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -182,28 +182,28 @@
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats.&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f"
+         href="https://twitter.com/intent/tweet?text=Determining%20intent%20and%20automating%20knowledge%20base%20creation%20from%20live%20chat%20transcripts.&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f&amp;title=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats."
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f&amp;title=Determining%20intent%20and%20automating%20knowledge%20base%20creation%20from%20live%20chat%20transcripts."
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f&amp;title=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats."
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f&amp;title=Determining%20intent%20and%20automating%20knowledge%20base%20creation%20from%20live%20chat%20transcripts."
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats.&amp;body=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f">
+         href="mailto:?subject=Determining%20intent%20and%20automating%20knowledge%20base%20creation%20from%20live%20chat%20transcripts.&amp;body=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -219,14 +219,18 @@
     <div class="article-style" itemprop="articleBody">
       
 
-<h3 id="mentor-jeff-epstein-comm100">Mentor: Jeff Epstein, Comm100</h3>
+<h3 id="mentor-david-carlson-and-kevin-gao-comm100">Mentor: David Carlson and Kevin Gao, Comm100</h3>
 
 <h2 id="summary">Summary</h2>
 
-<p>Description: The data set provided includes thousands of online chat sessions
+<p>Natural Language Processing (NLP) is being dramatically enhanced by AI and
+machine learning. We believe NLP is at the tipping point, about to reach a level
+of performance accuracy that makes widespread commercial applications more
+dependable. The challenge is in quickly training bots on common lexicon, intent,
+and reaction. The data set provided includes thousands of online chat sessions
 between support and sales agents of a company and their customers or online web
 visitors. Each chat log includes [chat transcript, duration times, and customer
-rating].  We’ve identified some business issues/use cases with suggested
+rating]. We’ve identified some business issues/use cases with suggested
 solutions for you to solve but you are not limited to the following issues or
 solutions (get creative! See things we don’t see in with the data that would
 provide real business value):</p>
@@ -238,11 +242,6 @@ provide real business value):</p>
 <li>Build an algorithm or methodology to cluster or correlate similar issues
 across chat sessions defined by you</li>
 </ul></li>
-<li>Understand Chat Sentiment of chat sessions:
-
-<ul>
-<li>Develop a method of identifying client emotional state</li>
-</ul></li>
 <li>We have a Knowledge Base (KB) tool but it is manual work on the client side
 to create Q&amp;A’s. Is there a way to progress towards full automation in building
 a Knowledge Base with what’s already there?
@@ -252,6 +251,10 @@ a Knowledge Base with what’s already there?
 automated way.</li>
 </ul></li>
 </ol>
+
+<p>The goal here is to see if the students can: a) figure out a mathematical model
+for determining intent, and b) develop a tool that can be used to repeat that
+process with new data sets.</p>
 
 <h2 id="about-comm100">About Comm100</h2>
 
@@ -270,10 +273,13 @@ and achieve a better business performance.</p>
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://workshop.bcdata.ca/2018/project/project-2/"><span
-      aria-hidden="true">&larr;</span> Connecting genetic mutations to cytokine levels.</a></li>
+    <li class="previous"><a href="http://workshop.bcdata.ca/2018/project/project-3/"><span
+      aria-hidden="true">&larr;</span> Interpolating ship paths in the Port of Metro Vancouver.</a></li>
     
 
+    
+    <li class="next"><a href="http://workshop.bcdata.ca/2018/project/project-2/">Connecting genetic mutations to cytokine levels. <span
+      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

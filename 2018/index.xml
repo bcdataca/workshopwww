@@ -117,7 +117,7 @@ TBA. Please check back for more information.&lt;/p&gt;
     <item>
       <title>Career Panel</title>
       <link>http://workshop.bcdata.ca/2018/talk/career-panel/</link>
-      <pubDate>Tue, 05 Jun 2018 18:00:00 -0700</pubDate>
+      <pubDate>Wed, 06 Jun 2018 18:00:00 -0700</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/talk/career-panel/</guid>
       <description>
@@ -132,7 +132,7 @@ TBA. Please check back for more information.&lt;/p&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;On the evening of June 5th, BC Data Science workshop participants
+&lt;p&gt;On the evening of June 6th, BC Data Science workshop participants
 will gather at &lt;a href=&#34;https://goo.gl/maps/8qcjD5NUwRF2&#34; target=&#34;_blank&#34;&gt;KPMG headquarters&lt;/a&gt;
 for a career panel and social event. The panel discusses non-academic
 career options for math-inclined folk; how to be prepared
@@ -145,9 +145,20 @@ folk to recent graduates in mathematics/statistics now working in industry. It
 includes current and past employees of major tech companies and current start-up
 leadership roles.&lt;/p&gt;
 
+&lt;p&gt;A reception follows from 7:00 to 8:00 PM.&lt;/p&gt;
+
 &lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
 
 &lt;p&gt;TBA&lt;/p&gt;
+
+&lt;!--
+* **Lilian Wong**, Ph.D. Mathematics (CalTech)  
+  Research Scientist at Amazon Vancouver
+* **Ozge Uncu**, Ph.D. Industrial Engineering (University of Toronto)
+  Senior Manager at KPMG
+* **Michael Reid**,  
+  Former Amazonian.
+--&gt;
 
 &lt;!--
 * **Lilian Wong**, Ph.D. Mathematics (CalTech)  
@@ -166,10 +177,10 @@ leadership roles.&lt;/p&gt;
     
     <item>
       <title>Full schedule</title>
-      <link>http://workshop.bcdata.ca/2018/talk/first-week-schedule/</link>
+      <link>http://workshop.bcdata.ca/2018/talk/full-schedule/</link>
       <pubDate>Mon, 04 Jun 2018 08:00:00 -0700</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/talk/first-week-schedule/</guid>
+      <guid>http://workshop.bcdata.ca/2018/talk/full-schedule/</guid>
       <description>
 
 &lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
@@ -411,54 +422,68 @@ the rapidly expanding field of data science.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Analyzing sentiment and constructing automated knowledge bases for online help chats.</title>
-      <link>http://workshop.bcdata.ca/2018/project/project-4/</link>
+      <title>Analyzing network performance and user opinion of a VoIP PBX.</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-5/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
+      <guid>http://workshop.bcdata.ca/2018/project/project-5/</guid>
       <description>
 
-&lt;h3 id=&#34;mentor-jeff-epstein-comm100&#34;&gt;Mentor: Jeff Epstein, Comm100&lt;/h3&gt;
+&lt;h3 id=&#34;mentor-graham-nelson-zutter-cloudpbx&#34;&gt;Mentor: Graham Nelson-Zutter, CloudPBX&lt;/h3&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;Description: The data set provided includes thousands of online chat sessions
-between support and sales agents of a company and their customers or online web
-visitors. Each chat log includes [chat transcript, duration times, and customer
-rating].  We’ve identified some business issues/use cases with suggested
-solutions for you to solve but you are not limited to the following issues or
-solutions (get creative! See things we don’t see in with the data that would
-provide real business value):&lt;/p&gt;
+&lt;p&gt;Canada is a member of the G8 and like other leading industrialized nations it
+offers relatively high speed and stable internet access to the to the majority
+of its urban population. As with other G8 citizens, Canadians benefit from all
+of the modern services that the high speed internet access can provide. Among
+many other real-time services on the internet, voice-over-IP (VoIP) is quickly
+becoming a prefered way for Canadians and Canadian businesses to access
+telephone services. VoIP telephone service offer many benefits compared to
+traditional landline service. However, VoIP services also come with some
+unexpected caveats to the end users. These “Canadian VoIP issues” can generally
+be placed into 2 categories:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Cluster or Correlate chat sessions:
-
-&lt;ul&gt;
-&lt;li&gt;Build an algorithm or methodology to cluster or correlate similar issues
-across chat sessions defined by you&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Understand Chat Sentiment of chat sessions:
-
-&lt;ul&gt;
-&lt;li&gt;Develop a method of identifying client emotional state&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;We have a Knowledge Base (KB) tool but it is manual work on the client side
-to create Q&amp;amp;A’s. Is there a way to progress towards full automation in building
-a Knowledge Base with what’s already there?
-
-&lt;ul&gt;
-&lt;li&gt;Build a KB comprised of questions and their corresponding answers in an
-automated way.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;VoIP calls can suffer from call quality issues relating to higher network
+latency (jitter), packet loss, and slow performance.&lt;/li&gt;
+&lt;li&gt;Due to how the Internet’s core routing protocol BGP, calls to Canadians from
+Canadians often take unintended routes over the internet which pass through the
+USA.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;about-comm100&#34;&gt;About Comm100&lt;/h2&gt;
+&lt;p&gt;In order to offer the best possible call quality experience of VoIP, CloudPBX
+maintains the most diverse possible core network with core data centres in
+Vancouver, Toronto and Montreal. In addition to providing VoIP services from
+these geographically optimized locations, CloudPBX also maintains the diverse IP
+transit network in Canada using the BGP protocol to offer a minimum of 2
+distinct IP-transit routes per data centre location. CloudPBX customers benefit
+from connectivity to over 6 distinct fibre optic routes to CloudPBX’s core
+infrastructure. By performing manual geographical distance analysis and IP route
+analysis, CloudPBX endeavours to connect its 500+ user sites to the most
+performant data centre. The routing of the internet is not static and a user
+site which was best suited for one data centre may in the future experience
+better call quality from another location.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.comm100.com/&#34; target=&#34;_blank&#34;&gt;Comm100&lt;/a&gt; is the global provider of enterprise-level
-customer service and communication solutions. As our motto “100% communication,
-100% success” indicates, we believe that good customer communication can make a
-difference for your business, helping you build stronger customer relationships
-and achieve a better business performance.&lt;/p&gt;
+&lt;p&gt;CloudPBX cares deeply about the user’s experience of VoIP call quality. In
+addition to geographical and network infrastructure design, call quality metrics
+have been captured for all 500 user site locations from all 3 service data
+centres. When quality occurs arise, CloudPBX reacts by advising the user to
+adjust connection configuration. Although it is very helpful to the end user,
+making changes after quality incidents occur is reactive. In order to increase
+the user’s call quality experience, CloudPBX would like to proactively
+anticipate call quality issues. It is our hope that by reviewing the call
+history and call quality analysis dataset, Pacific Institute for the
+Mathematical Sciences BC-Data workshop grad students will be able to determine
+is machine learning techniques would be beneficial in providing analysis to
+create adaptive and proactive connectivity and call routing rules.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-cloudpbx&#34;&gt;About CloudPBX&lt;/h2&gt;
+
+&lt;p&gt;CloudPBX is a Canadian voice-over-IP VoIP service provider to offers
+infrastructure to business VoIP service provider across the Canada. CloudPBX
+provides VoIP service to business users at over 500 unique locations in Canada
+from Victoria, BC to St-John’s, NL.&lt;/p&gt;
 </description>
     </item>
     
@@ -501,6 +526,61 @@ is an acute care, teaching and research hospital located in downtown
 Vancouver. It is home to many world-class medical and surgical programs,
 including heart and lung services, HIV/AIDS, mental health, emergency, critical
 care, kidney care, elder care and numerous surgical specialties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determining intent and automating knowledge base creation from live chat transcripts.</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-4/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
+      <description>
+
+&lt;h3 id=&#34;mentor-david-carlson-and-kevin-gao-comm100&#34;&gt;Mentor: David Carlson and Kevin Gao, Comm100&lt;/h3&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Natural Language Processing (NLP) is being dramatically enhanced by AI and
+machine learning. We believe NLP is at the tipping point, about to reach a level
+of performance accuracy that makes widespread commercial applications more
+dependable. The challenge is in quickly training bots on common lexicon, intent,
+and reaction. The data set provided includes thousands of online chat sessions
+between support and sales agents of a company and their customers or online web
+visitors. Each chat log includes [chat transcript, duration times, and customer
+rating]. We’ve identified some business issues/use cases with suggested
+solutions for you to solve but you are not limited to the following issues or
+solutions (get creative! See things we don’t see in with the data that would
+provide real business value):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Cluster or Correlate chat sessions:
+
+&lt;ul&gt;
+&lt;li&gt;Build an algorithm or methodology to cluster or correlate similar issues
+across chat sessions defined by you&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;We have a Knowledge Base (KB) tool but it is manual work on the client side
+to create Q&amp;amp;A’s. Is there a way to progress towards full automation in building
+a Knowledge Base with what’s already there?
+
+&lt;ul&gt;
+&lt;li&gt;Build a KB comprised of questions and their corresponding answers in an
+automated way.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The goal here is to see if the students can: a) figure out a mathematical model
+for determining intent, and b) develop a tool that can be used to repeat that
+process with new data sets.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-comm100&#34;&gt;About Comm100&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.comm100.com/&#34; target=&#34;_blank&#34;&gt;Comm100&lt;/a&gt; is the global provider of enterprise-level
+customer service and communication solutions. As our motto “100% communication,
+100% success” indicates, we believe that good customer communication can make a
+difference for your business, helping you build stronger customer relationships
+and achieve a better business performance.&lt;/p&gt;
 </description>
     </item>
     
@@ -551,7 +631,7 @@ capital and operations and maintenance in many fields.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Predicting heavy equipment failure</title>
+      <title>Predicting heavy equipment failure.</title>
       <link>http://workshop.bcdata.ca/2018/project/project-1/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       

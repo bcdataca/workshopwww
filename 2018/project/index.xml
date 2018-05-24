@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Analyzing sentiment and constructing automated knowledge bases for online help chats.</title>
-      <link>http://workshop.bcdata.ca/2018/project/project-4/</link>
+      <title>Analyzing network performance and user opinion of a VoIP PBX.</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-5/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
-      <description>Mentor: Jeff Epstein, Comm100 Summary Description: The data set provided includes thousands of online chat sessions between support and sales agents of a company and their customers or online web visitors. Each chat log includes [chat transcript, duration times, and customer rating]. We’ve identified some business issues/use cases with suggested solutions for you to solve but you are not limited to the following issues or solutions (get creative! See things we don’t see in with the data that would provide real business value):</description>
+      <guid>http://workshop.bcdata.ca/2018/project/project-5/</guid>
+      <description>Mentor: Graham Nelson-Zutter, CloudPBX Summary Canada is a member of the G8 and like other leading industrialized nations it offers relatively high speed and stable internet access to the to the majority of its urban population. As with other G8 citizens, Canadians benefit from all of the modern services that the high speed internet access can provide. Among many other real-time services on the internet, voice-over-IP (VoIP) is quickly becoming a prefered way for Canadians and Canadian businesses to access telephone services.</description>
     </item>
     
     <item>
@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Determining intent and automating knowledge base creation from live chat transcripts.</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-4/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
+      <description>Mentor: David Carlson and Kevin Gao, Comm100 Summary Natural Language Processing (NLP) is being dramatically enhanced by AI and machine learning. We believe NLP is at the tipping point, about to reach a level of performance accuracy that makes widespread commercial applications more dependable. The challenge is in quickly training bots on common lexicon, intent, and reaction. The data set provided includes thousands of online chat sessions between support and sales agents of a company and their customers or online web visitors.</description>
+    </item>
+    
+    <item>
       <title>Interpolating ship paths in the Port of Metro Vancouver.</title>
       <link>http://workshop.bcdata.ca/2018/project/project-3/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
@@ -40,7 +49,7 @@
     </item>
     
     <item>
-      <title>Predicting heavy equipment failure</title>
+      <title>Predicting heavy equipment failure.</title>
       <link>http://workshop.bcdata.ca/2018/project/project-1/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       

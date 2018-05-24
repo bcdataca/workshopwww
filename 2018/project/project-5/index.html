@@ -34,11 +34,11 @@
   <link rel="icon" type="image/png" href="/2018/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/2018/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="http://workshop.bcdata.ca/2018/project/project-1/">
+  <link rel="canonical" href="http://workshop.bcdata.ca/2018/project/project-5/">
 
   
 
-  <title>Predicting heavy equipment failure. | bcdata</title>
+  <title>Analyzing network performance and user opinion of a VoIP PBX. | bcdata</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -159,15 +159,15 @@
 
   
   <div class="article-header">
-    <img src="/2018/img//proj/ssr/bg.jpg" class="article-banner" itemprop="image">
-    <span class="article-header-caption">Predicting heavy equipment failure project.</span>
+    <img src="/2018/img//proj/cloudpbx/cloud-bg.jpg" class="article-banner" itemprop="image">
+    <span class="article-header-caption">Predicting user opinion and improving network performance in a VoIP PBX.</span>
   </div>
   
 
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Predicting heavy equipment failure.</h1>
+      <h1 itemprop="name">Analyzing network performance and user opinion of a VoIP PBX.</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -175,35 +175,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-1%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-5%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Predicting%20heavy%20equipment%20failure.&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-1%2f"
+         href="https://twitter.com/intent/tweet?text=Analyzing%20network%20performance%20and%20user%20opinion%20of%20a%20VoIP%20PBX.&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-5%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-1%2f&amp;title=Predicting%20heavy%20equipment%20failure."
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-5%2f&amp;title=Analyzing%20network%20performance%20and%20user%20opinion%20of%20a%20VoIP%20PBX."
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-1%2f&amp;title=Predicting%20heavy%20equipment%20failure."
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-5%2f&amp;title=Analyzing%20network%20performance%20and%20user%20opinion%20of%20a%20VoIP%20PBX."
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Predicting%20heavy%20equipment%20failure.&amp;body=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-1%2f">
+         href="mailto:?subject=Analyzing%20network%20performance%20and%20user%20opinion%20of%20a%20VoIP%20PBX.&amp;body=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-5%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -215,87 +215,65 @@
     </div>
 
     
-    <a class="btn btn-primary btn-outline" href="./ProjExternal/ssr.pdf" target="_blank">Go to Project Site</a>
-    
 
     <div class="article-style" itemprop="articleBody">
       
 
-<h3 id="mentor-liezl-van-wyk-and-vien-dang-ssr-mining">Mentor: Liezl Van Wyk and Vien Dang, SSR Mining</h3>
+<h3 id="mentor-graham-nelson-zutter-cloudpbx">Mentor: Graham Nelson-Zutter, CloudPBX</h3>
 
 <h2 id="summary">Summary</h2>
 
-<h3 id="innovation-challenge">Innovation challenge</h3>
+<p>Canada is a member of the G8 and like other leading industrialized nations it
+offers relatively high speed and stable internet access to the to the majority
+of its urban population. As with other G8 citizens, Canadians benefit from all
+of the modern services that the high speed internet access can provide. Among
+many other real-time services on the internet, voice-over-IP (VoIP) is quickly
+becoming a prefered way for Canadians and Canadian businesses to access
+telephone services. VoIP telephone service offer many benefits compared to
+traditional landline service. However, VoIP services also come with some
+unexpected caveats to the end users. These “Canadian VoIP issues” can generally
+be placed into 2 categories:</p>
 
-<p>Using data to proactively predict Equipment Failure prior to the actual failure
-event occurs by using equipment production, maintenance &amp; alerts information.</p>
+<ol>
+<li>VoIP calls can suffer from call quality issues relating to higher network
+latency (jitter), packet loss, and slow performance.</li>
+<li>Due to how the Internet’s core routing protocol BGP, calls to Canadians from
+Canadians often take unintended routes over the internet which pass through the
+USA.</li>
+</ol>
 
-<h3 id="challenge-description">Challenge Description</h3>
+<p>In order to offer the best possible call quality experience of VoIP, CloudPBX
+maintains the most diverse possible core network with core data centres in
+Vancouver, Toronto and Montreal. In addition to providing VoIP services from
+these geographically optimized locations, CloudPBX also maintains the diverse IP
+transit network in Canada using the BGP protocol to offer a minimum of 2
+distinct IP-transit routes per data centre location. CloudPBX customers benefit
+from connectivity to over 6 distinct fibre optic routes to CloudPBX’s core
+infrastructure. By performing manual geographical distance analysis and IP route
+analysis, CloudPBX endeavours to connect its 500+ user sites to the most
+performant data centre. The routing of the internet is not static and a user
+site which was best suited for one data centre may in the future experience
+better call quality from another location.</p>
 
-<p>Equipment downtime is the time a piece of equipment is taken out of service for
-planned or unplanned maintenance work. While downtime is costly in general,
-unplanned downtime can cost up to seven times more than planned downtime and is
-disruptive to the production cycle due to its unpredictability. For this reason,
-it is the business goal to better predict and reduce equipment unplanned
-downtime.  Marigold currently collects equipment usage and production
-information in real time via the Modular Dispatch ® system and equipment
-sensors, performance and alerts via the Modular Minecare® system. The
-Maintenance Work order history is stored in the eMaint CMMS (Computerised
-Maintenance Management System). There is an opportunity to derive meaningful
-trends and correlations from this data via these systems to predict and reduce
-unplanned equipment downtime.</p>
+<p>CloudPBX cares deeply about the user’s experience of VoIP call quality. In
+addition to geographical and network infrastructure design, call quality metrics
+have been captured for all 500 user site locations from all 3 service data
+centres. When quality occurs arise, CloudPBX reacts by advising the user to
+adjust connection configuration. Although it is very helpful to the end user,
+making changes after quality incidents occur is reactive. In order to increase
+the user’s call quality experience, CloudPBX would like to proactively
+anticipate call quality issues. It is our hope that by reviewing the call
+history and call quality analysis dataset, Pacific Institute for the
+Mathematical Sciences BC-Data workshop grad students will be able to determine
+is machine learning techniques would be beneficial in providing analysis to
+create adaptive and proactive connectivity and call routing rules.</p>
 
-<h3 id="user-story">User Story</h3>
+<h2 id="about-cloudpbx">About CloudPBX</h2>
 
-<p>Marigold is currently operating a fleet of 21 haul trucks (320 tons class), 2
-hydraulic shovels and one electric shovel. The mine is currently experiencing
-higher than desired unplanned equipment downtime, which negatively impacts the
-ability to meet cost effective production targets. In many cases, the mine is
-unable to predict when, where and why a component on a piece of equipment will
-fail, leading to high unplanned downtime and low % unit availability. While a
-high amount of equipment information is gathered, the mine neither has the
-ability nor resource to analyze the information collected via Minecare, Dispatch
-and eMaint for predictive decision making.</p>
-
-<p>There is an opportunity to use all the equipment information collected to
-predict when a piece of equipment is starting to fail. This would allow
-maintenance crews adequate time to react and take units out of service before
-failure occurs. The result of this work will create a more data-driven and
-controlled maintenance environment and help achieve production targets.</p>
-
-<h3 id="potential-areas-to-consider">Potential Areas to consider</h3>
-
-<ul>
-<li>Production trends correlating to equipment failures</li>
-<li>Sensors and alarms trends correlating to equipment failures</li>
-<li>Descriptions of downtime events in the works order system</li>
-</ul>
-
-<h3 id="relevant-data">Relevant Data</h3>
-
-<p>Data will include a data dictionary and relations map The dataset cover 13
-months’ worth of equipment identifiers, time profiles, production, performance,
-alarms and work order history.  The 3 systems used are:</p>
-
-<ul>
-<li><strong>Dispatch:</strong> This dataset contains haul truck and shovel production summary
-(Equipment IDs, Tons moved, distance traveled and cycle time) and equipment time
-profile (operative, delays, downtime, idle time, and standby) along with
-downtime reasons and comments</li>
-<li><strong>Minecare:</strong> This data set contains haul truck and shovel sensors data,
-alarms and alerts history.</li>
-<li><strong>Prevail:</strong> This data set contains machine data, alarms and alerts for the
-electric shovel</li>
-</ul>
-
-<p><strong>eMaint:</strong> Maintenance Work order history which includes work order time, downtime type, work type, equipment and components and parts usage.</p>
-
-<h2 id="about-ssr-mining">About SSR Mining</h2>
-
-<p><a href="http://www.ssrmining.com/" target="_blank">SSR Mining Inc.</a> is a Vancouver-based mining company
-focused on the operation, development, exploration and acquisition of precious
-metal projects. It is listed under the ticker symbol SSRM on the NASDAQ Capital
-Markets and the Toronto Stock Exchange.</p>
+<p>CloudPBX is a Canadian voice-over-IP VoIP service provider to offers
+infrastructure to business VoIP service provider across the Canada. CloudPBX
+provides VoIP service to business users at over 500 unique locations in Canada
+from Victoria, BC to St-John’s, NL.</p>
 
     </div>
 
@@ -306,10 +284,10 @@ Markets and the Toronto Stock Exchange.</p>
   <nav>
   <ul class="pager">
     
-
+    <li class="previous"><a href="http://workshop.bcdata.ca/2018/project/project-2/"><span
+      aria-hidden="true">&larr;</span> Connecting genetic mutations to cytokine levels.</a></li>
     
-    <li class="next"><a href="http://workshop.bcdata.ca/2018/project/project-3/">Interpolating ship paths in the Port of Metro Vancouver. <span
-      aria-hidden="true">&rarr;</span></a></li>
+
     
   </ul>
 </nav>
