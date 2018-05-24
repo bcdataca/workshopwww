@@ -411,6 +411,58 @@ the rapidly expanding field of data science.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Analyzing sentiment and constructing automated knowledge bases for online help chats.</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-4/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
+      <description>
+
+&lt;h3 id=&#34;mentor-jeff-epstein-comm100&#34;&gt;Mentor: Jeff Epstein, Comm100&lt;/h3&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Description: The data set provided includes thousands of online chat sessions
+between support and sales agents of a company and their customers or online web
+visitors. Each chat log includes [chat transcript, duration times, and customer
+rating].  We’ve identified some business issues/use cases with suggested
+solutions for you to solve but you are not limited to the following issues or
+solutions (get creative! See things we don’t see in with the data that would
+provide real business value):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Cluster or Correlate chat sessions:
+
+&lt;ul&gt;
+&lt;li&gt;Build an algorithm or methodology to cluster or correlate similar issues
+across chat sessions defined by you&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Understand Chat Sentiment of chat sessions:
+
+&lt;ul&gt;
+&lt;li&gt;Develop a method of identifying client emotional state&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;We have a Knowledge Base (KB) tool but it is manual work on the client side
+to create Q&amp;amp;A’s. Is there a way to progress towards full automation in building
+a Knowledge Base with what’s already there?
+
+&lt;ul&gt;
+&lt;li&gt;Build a KB comprised of questions and their corresponding answers in an
+automated way.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;about-comm100&#34;&gt;About Comm100&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.comm100.com/&#34; target=&#34;_blank&#34;&gt;Comm100&lt;/a&gt; is the global provider of enterprise-level
+customer service and communication solutions. As our motto “100% communication,
+100% success” indicates, we believe that good customer communication can make a
+difference for your business, helping you build stronger customer relationships
+and achieve a better business performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Connecting genetic mutations to cytokine levels.</title>
       <link>http://workshop.bcdata.ca/2018/project/project-2/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
@@ -422,7 +474,19 @@ the rapidly expanding field of data science.&lt;/p&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;TBA.&lt;/p&gt;
+&lt;p&gt;Cytokines are a broad and loose category of small proteins that are important in
+cell signaling. Their release has an effect on the behavior of cells around
+them. The challenge in this problem is to find patterns of Single Nucleotide
+Polymorphisms (SNPs: genotypes) that beget particular cytokine levels
+(phenotypes).  Part of the data set provided is a list of patients&amp;rsquo; blood work
+measurements (cytokine levels). These data are in a straightforward CSV
+file. The other part of the dataset is genomic data of the patients.  These data
+are large collections of SNP markers on the patients&amp;rsquo; genomes and are
+represented in plink format, a common format for genome studies.  A part of the
+work the students would have to do is to unpack the plink data into a useful
+form for analysis. Finally, there is a genome reference online that indicates
+what is known about each SNP marker. There are about 330 (anonymized) patients,
+perhaps 40 cytokine markers, and entire genomes worth of data for each patient.&lt;/p&gt;
 
 &lt;h4 id=&#34;data-team-notes&#34;&gt;Data team notes&lt;/h4&gt;
 

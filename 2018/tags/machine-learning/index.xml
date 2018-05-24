@@ -18,9 +18,7 @@
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/project/project-2/</guid>
-      <description>Mentor: Keith Wallace, St. Paul&amp;rsquo;s Hospital Summary TBA.
-Data team notes Some background with biochemistry, mathematical biology, genetics, etc. is recommended.
-About St. Paul&amp;rsquo;s Hospital St. Paul’s Hospital is an acute care, teaching and research hospital located in downtown Vancouver. It is home to many world-class medical and surgical programs, including heart and lung services, HIV/AIDS, mental health, emergency, critical care, kidney care, elder care and numerous surgical specialties.</description>
+      <description>Mentor: Keith Wallace, St. Paul&amp;rsquo;s Hospital Summary Cytokines are a broad and loose category of small proteins that are important in cell signaling. Their release has an effect on the behavior of cells around them. The challenge in this problem is to find patterns of Single Nucleotide Polymorphisms (SNPs: genotypes) that beget particular cytokine levels (phenotypes). Part of the data set provided is a list of patients&amp;rsquo; blood work measurements (cytokine levels).</description>
     </item>
     
     <item>

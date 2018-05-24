@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analytics on bcdata</title>
-    <link>http://workshop.bcdata.ca/2018/tags/analytics/</link>
-    <description>Recent content in Analytics on bcdata</description>
+    <title>Nlp on bcdata</title>
+    <link>http://workshop.bcdata.ca/2018/tags/nlp/</link>
+    <description>Recent content in Nlp on bcdata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 bcdata.ca</copyright>
     <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://workshop.bcdata.ca/2018/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://workshop.bcdata.ca/2018/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
       <description>Mentor: Jeff Epstein, Comm100 Summary Description: The data set provided includes thousands of online chat sessions between support and sales agents of a company and their customers or online web visitors. Each chat log includes [chat transcript, duration times, and customer rating]. We’ve identified some business issues/use cases with suggested solutions for you to solve but you are not limited to the following issues or solutions (get creative! See things we don’t see in with the data that would provide real business value):</description>
-    </item>
-    
-    <item>
-      <title>Connecting genetic mutations to cytokine levels.</title>
-      <link>http://workshop.bcdata.ca/2018/project/project-2/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/project/project-2/</guid>
-      <description>Mentor: Keith Wallace, St. Paul&amp;rsquo;s Hospital Summary Cytokines are a broad and loose category of small proteins that are important in cell signaling. Their release has an effect on the behavior of cells around them. The challenge in this problem is to find patterns of Single Nucleotide Polymorphisms (SNPs: genotypes) that beget particular cytokine levels (phenotypes). Part of the data set provided is a list of patients&amp;rsquo; blood work measurements (cytokine levels).</description>
     </item>
     
   </channel>

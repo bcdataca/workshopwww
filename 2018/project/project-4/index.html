@@ -34,11 +34,11 @@
   <link rel="icon" type="image/png" href="/2018/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/2018/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="http://workshop.bcdata.ca/2018/project/project-2/">
+  <link rel="canonical" href="http://workshop.bcdata.ca/2018/project/project-4/">
 
   
 
-  <title>Connecting genetic mutations to cytokine levels. | bcdata</title>
+  <title>Analyzing sentiment and constructing automated knowledge bases for online help chats. | bcdata</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -159,15 +159,15 @@
 
   
   <div class="article-header">
-    <img src="/2018/img//proj/stpauls/tubes-bg.jpg" class="article-banner" itemprop="image">
-    <span class="article-header-caption">Linking SNPs to Cytokine levels.</span>
+    <img src="/2018/img//proj/comm100/bg1.jpg" class="article-banner" itemprop="image">
+    <span class="article-header-caption">Analyzing user sentiment and constructing automated knowledge bases from online chat logs.</span>
   </div>
   
 
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Connecting genetic mutations to cytokine levels.</h1>
+      <h1 itemprop="name">Analyzing sentiment and constructing automated knowledge bases for online help chats.</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -175,35 +175,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-2%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Connecting%20genetic%20mutations%20to%20cytokine%20levels.&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-2%2f"
+         href="https://twitter.com/intent/tweet?text=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats.&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-2%2f&amp;title=Connecting%20genetic%20mutations%20to%20cytokine%20levels."
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f&amp;title=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats."
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-2%2f&amp;title=Connecting%20genetic%20mutations%20to%20cytokine%20levels."
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f&amp;title=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats."
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Connecting%20genetic%20mutations%20to%20cytokine%20levels.&amp;body=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-2%2f">
+         href="mailto:?subject=Analyzing%20sentiment%20and%20constructing%20automated%20knowledge%20bases%20for%20online%20help%20chats.&amp;body=http%3a%2f%2fworkshop.bcdata.ca%2f2018%2fproject%2fproject-4%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -219,37 +219,47 @@
     <div class="article-style" itemprop="articleBody">
       
 
-<h3 id="mentor-keith-wallace-st-paul-s-hospital">Mentor: Keith Wallace, St. Paul&rsquo;s Hospital</h3>
+<h3 id="mentor-jeff-epstein-comm100">Mentor: Jeff Epstein, Comm100</h3>
 
 <h2 id="summary">Summary</h2>
 
-<p>Cytokines are a broad and loose category of small proteins that are important in
-cell signaling. Their release has an effect on the behavior of cells around
-them. The challenge in this problem is to find patterns of Single Nucleotide
-Polymorphisms (SNPs: genotypes) that beget particular cytokine levels
-(phenotypes).  Part of the data set provided is a list of patients&rsquo; blood work
-measurements (cytokine levels). These data are in a straightforward CSV
-file. The other part of the dataset is genomic data of the patients.  These data
-are large collections of SNP markers on the patients&rsquo; genomes and are
-represented in plink format, a common format for genome studies.  A part of the
-work the students would have to do is to unpack the plink data into a useful
-form for analysis. Finally, there is a genome reference online that indicates
-what is known about each SNP marker. There are about 330 (anonymized) patients,
-perhaps 40 cytokine markers, and entire genomes worth of data for each patient.</p>
+<p>Description: The data set provided includes thousands of online chat sessions
+between support and sales agents of a company and their customers or online web
+visitors. Each chat log includes [chat transcript, duration times, and customer
+rating].  We’ve identified some business issues/use cases with suggested
+solutions for you to solve but you are not limited to the following issues or
+solutions (get creative! See things we don’t see in with the data that would
+provide real business value):</p>
 
-<h4 id="data-team-notes">Data team notes</h4>
+<ol>
+<li>Cluster or Correlate chat sessions:
 
-<p>Some background with biochemistry, mathematical biology, genetics, etc. is
-recommended.</p>
+<ul>
+<li>Build an algorithm or methodology to cluster or correlate similar issues
+across chat sessions defined by you</li>
+</ul></li>
+<li>Understand Chat Sentiment of chat sessions:
 
-<h2 id="about-st-paul-s-hospital">About St. Paul&rsquo;s Hospital</h2>
+<ul>
+<li>Develop a method of identifying client emotional state</li>
+</ul></li>
+<li>We have a Knowledge Base (KB) tool but it is manual work on the client side
+to create Q&amp;A’s. Is there a way to progress towards full automation in building
+a Knowledge Base with what’s already there?
 
-<p><a href="http://www.providencehealthcare.org/hospitals-residences/st-paul's-hospital" target="_blank">St. Paul’s
-Hospital</a>
-is an acute care, teaching and research hospital located in downtown
-Vancouver. It is home to many world-class medical and surgical programs,
-including heart and lung services, HIV/AIDS, mental health, emergency, critical
-care, kidney care, elder care and numerous surgical specialties.</p>
+<ul>
+<li>Build a KB comprised of questions and their corresponding answers in an
+automated way.</li>
+</ul></li>
+</ol>
+
+<h2 id="about-comm100">About Comm100</h2>
+
+<p><a href="https://www.comm100.com/" target="_blank">Comm100</a> is the global provider of enterprise-level
+customer service and communication solutions. As our motto “100% communication,
+100% success” indicates, we believe that good customer communication can make a
+difference for your business, helping you build stronger customer relationships
+and achieve a better business performance.</p>
 
     </div>
 
@@ -260,13 +270,10 @@ care, kidney care, elder care and numerous surgical specialties.</p>
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://workshop.bcdata.ca/2018/project/project-3/"><span
-      aria-hidden="true">&larr;</span> Interpolating ship paths in the Port of Metro Vancouver.</a></li>
+    <li class="previous"><a href="http://workshop.bcdata.ca/2018/project/project-2/"><span
+      aria-hidden="true">&larr;</span> Connecting genetic mutations to cytokine levels.</a></li>
     
 
-    
-    <li class="next"><a href="http://workshop.bcdata.ca/2018/project/project-4/">Analyzing sentiment and constructing automated knowledge bases for online help chats. <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

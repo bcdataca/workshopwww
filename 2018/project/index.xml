@@ -13,14 +13,21 @@
     
     
     <item>
+      <title>Analyzing sentiment and constructing automated knowledge bases for online help chats.</title>
+      <link>http://workshop.bcdata.ca/2018/project/project-4/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/project/project-4/</guid>
+      <description>Mentor: Jeff Epstein, Comm100 Summary Description: The data set provided includes thousands of online chat sessions between support and sales agents of a company and their customers or online web visitors. Each chat log includes [chat transcript, duration times, and customer rating]. We’ve identified some business issues/use cases with suggested solutions for you to solve but you are not limited to the following issues or solutions (get creative! See things we don’t see in with the data that would provide real business value):</description>
+    </item>
+    
+    <item>
       <title>Connecting genetic mutations to cytokine levels.</title>
       <link>http://workshop.bcdata.ca/2018/project/project-2/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/project/project-2/</guid>
-      <description>Mentor: Keith Wallace, St. Paul&amp;rsquo;s Hospital Summary TBA.
-Data team notes Some background with biochemistry, mathematical biology, genetics, etc. is recommended.
-About St. Paul&amp;rsquo;s Hospital St. Paul’s Hospital is an acute care, teaching and research hospital located in downtown Vancouver. It is home to many world-class medical and surgical programs, including heart and lung services, HIV/AIDS, mental health, emergency, critical care, kidney care, elder care and numerous surgical specialties.</description>
+      <description>Mentor: Keith Wallace, St. Paul&amp;rsquo;s Hospital Summary Cytokines are a broad and loose category of small proteins that are important in cell signaling. Their release has an effect on the behavior of cells around them. The challenge in this problem is to find patterns of Single Nucleotide Polymorphisms (SNPs: genotypes) that beget particular cytokine levels (phenotypes). Part of the data set provided is a list of patients&amp;rsquo; blood work measurements (cytokine levels).</description>
     </item>
     
     <item>

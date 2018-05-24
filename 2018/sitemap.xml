@@ -60,6 +60,14 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/project/project-4/</loc>
+      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/project/project-2/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
     </url>
@@ -159,7 +167,7 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/biomedical/</loc>
+      <loc>http://workshop.bcdata.ca/2018/tags/bigdata/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -176,7 +184,7 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/cnn/</loc>
+      <loc>http://workshop.bcdata.ca/2018/tags/cleaning/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -187,24 +195,6 @@
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/computing/</loc>
       <lastmod>2018-05-06T19:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/convnets/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/convolution/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,25 +220,7 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/gene/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>http://workshop.bcdata.ca/2018/tags/genetics/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/genomics/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -275,7 +247,7 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/image-processing/</loc>
+      <loc>http://workshop.bcdata.ca/2018/tags/inference/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -284,7 +256,7 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/inference/</loc>
+      <loc>http://workshop.bcdata.ca/2018/tags/interpolation/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -338,7 +310,25 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/nlp/</loc>
+      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/tags/online/</loc>
+      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/prediction/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -365,35 +355,8 @@
     
     
     <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/promoter/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>http://workshop.bcdata.ca/2018/publication_types/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/risk/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/safety-authority/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -412,15 +375,6 @@
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/scientific/</loc>
       <lastmod>2018-05-06T19:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://workshop.bcdata.ca/2018/tags/sequence/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -40,20 +40,20 @@
     </item>
     
     <item>
-      <title>Biomedical</title>
-      <link>http://workshop.bcdata.ca/2018/tags/biomedical/</link>
+      <title>Bigdata</title>
+      <link>http://workshop.bcdata.ca/2018/tags/bigdata/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/tags/biomedical/</guid>
+      <guid>http://workshop.bcdata.ca/2018/tags/bigdata/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cnn</title>
-      <link>http://workshop.bcdata.ca/2018/tags/cnn/</link>
+      <title>Cleaning</title>
+      <link>http://workshop.bcdata.ca/2018/tags/cleaning/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://workshop.bcdata.ca/2018/tags/cnn/</guid>
+      <guid>http://workshop.bcdata.ca/2018/tags/cleaning/</guid>
       <description></description>
     </item>
     
@@ -63,24 +63,6 @@
       <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convnets</title>
-      <link>http://workshop.bcdata.ca/2018/tags/convnets/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/convnets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convolution</title>
-      <link>http://workshop.bcdata.ca/2018/tags/convolution/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/convolution/</guid>
       <description></description>
     </item>
     
@@ -103,29 +85,11 @@
     </item>
     
     <item>
-      <title>Gene</title>
-      <link>http://workshop.bcdata.ca/2018/tags/gene/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/gene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Genetics</title>
       <link>http://workshop.bcdata.ca/2018/tags/genetics/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomics</title>
-      <link>http://workshop.bcdata.ca/2018/tags/genomics/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/genomics/</guid>
       <description></description>
     </item>
     
@@ -148,20 +112,20 @@
     </item>
     
     <item>
-      <title>Image Processing</title>
-      <link>http://workshop.bcdata.ca/2018/tags/image-processing/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inference</title>
       <link>http://workshop.bcdata.ca/2018/tags/inference/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpolation</title>
+      <link>http://workshop.bcdata.ca/2018/tags/interpolation/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/interpolation/</guid>
       <description></description>
     </item>
     
@@ -211,6 +175,15 @@
     </item>
     
     <item>
+      <title>Nlp</title>
+      <link>http://workshop.bcdata.ca/2018/tags/nlp/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Online</title>
       <link>http://workshop.bcdata.ca/2018/tags/online/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
@@ -220,38 +193,20 @@
     </item>
     
     <item>
+      <title>Prediction</title>
+      <link>http://workshop.bcdata.ca/2018/tags/prediction/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probabilistic Modeling</title>
       <link>http://workshop.bcdata.ca/2018/tags/probabilistic-modeling/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/probabilistic-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promoter</title>
-      <link>http://workshop.bcdata.ca/2018/tags/promoter/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/promoter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk</title>
-      <link>http://workshop.bcdata.ca/2018/tags/risk/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safety Authority</title>
-      <link>http://workshop.bcdata.ca/2018/tags/safety-authority/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/safety-authority/</guid>
       <description></description>
     </item>
     
@@ -270,15 +225,6 @@
       <pubDate>Sun, 06 May 2018 19:00:00 +0000</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/tags/scientific/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence</title>
-      <link>http://workshop.bcdata.ca/2018/tags/sequence/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://workshop.bcdata.ca/2018/tags/sequence/</guid>
       <description></description>
     </item>
     
