@@ -195,6 +195,14 @@ repository&lt;/a&gt; for the
 workshop, and on &lt;a href=&#34;https://bcdata.syzygy.ca&#34; target=&#34;_blank&#34;&gt;bcdata.syzygy.ca&lt;/a&gt; (accessible with
 your GitHub credentials).&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Location notes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ESB 2012 must be accessed by the elevator (2R) or from the stairs on the main
+floor.&lt;/li&gt;
+&lt;li&gt;KPMG is located at 777 Dunsmuir St, Vancouver (at the intersection of Howe and Dunsmuir).&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&#34;day-1-monday-june-4&#34;&gt;Day 1: Monday June 4&lt;/h3&gt;
 
 &lt;table&gt;
@@ -211,7 +219,7 @@ your GitHub credentials).&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;09:00&lt;/td&gt;
 &lt;td&gt;10:00&lt;/td&gt;
-&lt;td&gt;ESB 4133 (PIMS Lounge)&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
 &lt;td&gt;Breakfast&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -225,7 +233,7 @@ your GitHub credentials).&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;11:30&lt;/td&gt;
 &lt;td&gt;12:00&lt;/td&gt;
-&lt;td&gt;ESB 4133 (PIMS Lounge)&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -260,16 +268,9 @@ your GitHub credentials).&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;08:00&lt;/td&gt;
-&lt;td&gt;17:00&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&lt;/td&gt;
 &lt;td&gt;ORCH&lt;/td&gt;
 &lt;td&gt;Group work&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;18:00&lt;/td&gt;
-&lt;td&gt;19:00&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/8qcjD5NUwRF2&#34; target=&#34;_blank&#34;&gt;KPMG headquarters&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Career Panel&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -289,9 +290,16 @@ your GitHub credentials).&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;08:00&lt;/td&gt;
-&lt;td&gt;&amp;mdash;&lt;/td&gt;
+&lt;td&gt;17:00&lt;/td&gt;
 &lt;td&gt;ORCH&lt;/td&gt;
 &lt;td&gt;Group work&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/8qcjD5NUwRF2&#34; target=&#34;_blank&#34;&gt;KPMG headquarters&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Career Panel&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -348,7 +356,7 @@ your GitHub credentials).&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;12:00&lt;/td&gt;
 &lt;td&gt;13:00&lt;/td&gt;
-&lt;td&gt;ESB 4133 (PIMS Lounge)&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
 &lt;td&gt;Lunch&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -362,7 +370,7 @@ your GitHub credentials).&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;14:30&lt;/td&gt;
 &lt;td&gt;15:00&lt;/td&gt;
-&lt;td&gt;ESB 4133 (PIMS Lounge)&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
 &lt;td&gt;Break&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -468,14 +476,14 @@ better call quality from another location.&lt;/p&gt;
 &lt;p&gt;CloudPBX cares deeply about the user’s experience of VoIP call quality. In
 addition to geographical and network infrastructure design, call quality metrics
 have been captured for all 500 user site locations from all 3 service data
-centres. When quality occurs arise, CloudPBX reacts by advising the user to
+centres. When quality issues arise, CloudPBX reacts by advising the user to
 adjust connection configuration. Although it is very helpful to the end user,
 making changes after quality incidents occur is reactive. In order to increase
 the user’s call quality experience, CloudPBX would like to proactively
 anticipate call quality issues. It is our hope that by reviewing the call
 history and call quality analysis dataset, Pacific Institute for the
 Mathematical Sciences BC-Data workshop grad students will be able to determine
-is machine learning techniques would be beneficial in providing analysis to
+if machine learning techniques would be beneficial in providing analysis to
 create adaptive and proactive connectivity and call routing rules.&lt;/p&gt;
 
 &lt;h2 id=&#34;about-cloudpbx&#34;&gt;About CloudPBX&lt;/h2&gt;
