@@ -153,29 +153,47 @@ form&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
 
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bernard Chan&lt;/strong&gt;&lt;br /&gt;
+(Data Scientist at BuildDirect)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soyean Kim&lt;/strong&gt;&lt;br /&gt;
+(Head of Research at Technical Safety BC)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Michael Reid&lt;/strong&gt;&lt;br /&gt;
+(Software Development Manager at Amazon, Co-Founder of Nautilus Technologies)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ozge Uncu&lt;/strong&gt;&lt;br /&gt;
+(Senior Manager at KPMG)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;&lt;br /&gt;
+(Research Scientist at Amazon Vancouver)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;!--
-* **Lilian Wong**, Ph.D. Mathematics (CalTech)  
-  Research Scientist at Amazon Vancouver
-* **Ozge Uncu**, Ph.D. Industrial Engineering (University of Toronto)
-  Senior Manager at KPMG
-* **Michael Reid**,  
-  Former Amazonian.
---&gt;
+&lt;h3 id=&#34;speaker-bios&#34;&gt;Speaker Bios&lt;/h3&gt;
 
-&lt;!--
-* **Lilian Wong**, Ph.D. Mathematics (CalTech)  
-  Research Scientist at Amazon Vancouver
-* **Roger Donaldson**, Ph.D. Mathematics (CalTech)
-  Technical Consultant at Midvale Applied Mathematics Inc.
-* **Bernard Chan**, Ph.D. Applied Mathematics (Western University)
-  Data Scientist at BuildDirect Technologies
-* **Megan McCorquodale**, M.Sc. Statistics (SFU)  
-  Data Scientist, Absolute Software
-* **Zak Islam**  
-  Sr. Manager, AWS Messaging at Amazon Web Services
---&gt;
+&lt;p&gt;Soyean Kim is a professional statistician (P.STAT) who is passionate about
+ethical use of data and algorithms to contribute to the betterment of
+society. She currently leads a team of data scientists at Technical Safety BC, a
+safety regulator in Canada. Her key contribution includes advancing ethics
+roadmap in predictive system and deployment of AI and machine learning to help
+safety inspection process. Her previous leadership roles include her tenure at
+PricewaterhouseCoopers and Fortis as a rate design manager. She is an advocate
+for “Data for Good” and a speaker on the topic of real world applications of
+AI. Her latest speaking engagement includes PAPIs in London, UK which is a
+series of international AI conferences, and BC Tech Summit in Vancouver.&lt;/p&gt;
+
+&lt;p&gt;Mike received a Bachelor&amp;rsquo;s in Mathematics from UMBC before
+starting work as junior web developer for a US federal government consulting
+agency. After moving to Vancouver, he&amp;rsquo;s worked in software engineering at
+companies ranging from small consulting firms to Amazon Web Services. He
+recently co-founded Nautilus Technologies, a machine learning and data privacy
+startup in Vancouver.&lt;/p&gt;
+
+&lt;h3 id=&#34;moderated-questions&#34;&gt;Moderated Questions&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What was the first job you had after graduation and how did you get it?&lt;/li&gt;
+&lt;li&gt;What do you like most/least about your current work?&lt;/li&gt;
+&lt;li&gt;If you could go back in time and change one thing about your career choices what would you do?&lt;/li&gt;
+&lt;li&gt;What advice do you have for the students in the audience looking for their first job?&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -205,7 +223,50 @@ your GitHub credentials).&lt;/p&gt;
 &lt;li&gt;ESB 2012 must be accessed by the elevator (2R) or from the stairs on the main
 floor.&lt;/li&gt;
 &lt;li&gt;KPMG is located at 777 Dunsmuir St, Vancouver (at the intersection of Howe and Dunsmuir).&lt;/li&gt;
+&lt;li&gt;Orchard Commons room assignments:&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;ORCH&lt;/th&gt;
+&lt;th&gt;Project group&lt;/th&gt;
+&lt;th&gt;Project description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;4068&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../ProjExternal/ssr.pdf&#34;&gt;SSR Mining&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Equipment failure data&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3068&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-2/&#34;&gt;St. Paul’s Hospital&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cytokine data&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3072&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-3&#34;&gt;SNC-Lavalin&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ship path data&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4062&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-4&#34;&gt;Comm100&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chat transcript data&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3062&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../project/project-5/&#34;&gt;CloudPBX&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Call quality data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&#34;day-1-monday-june-4&#34;&gt;Day 1: Monday June 4&lt;/h3&gt;
 
@@ -223,7 +284,7 @@ floor.&lt;/li&gt;
 &lt;tr&gt;
 &lt;td&gt;09:00&lt;/td&gt;
 &lt;td&gt;10:00&lt;/td&gt;
-&lt;td&gt;ESB &lt;sup&gt;5104&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5106&lt;/sub&gt;&lt;/td&gt;
+&lt;td&gt;ESB 5104 / 5106&lt;/td&gt;
 &lt;td&gt;Breakfast&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -443,6 +504,8 @@ the rapidly expanding field of data science.&lt;/p&gt;
 
 &lt;h3 id=&#34;mentor-graham-nelson-zutter-cloudpbx&#34;&gt;Mentor: Graham Nelson-Zutter, CloudPBX&lt;/h3&gt;
 
+&lt;p&gt;&lt;strong&gt;Project Room: ORCH 3062&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;Canada is a member of the G8 and like other leading industrialized nations it
@@ -509,6 +572,8 @@ from Victoria, BC to St-John’s, NL.&lt;/p&gt;
 
 &lt;h3 id=&#34;mentor-keith-walley-st-paul-s-hospital&#34;&gt;Mentor: Keith Walley, St. Paul&amp;rsquo;s Hospital&lt;/h3&gt;
 
+&lt;p&gt;&lt;strong&gt;Project Room: ORCH 3068&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;Cytokines are a broad and loose category of small proteins that are important in
@@ -550,6 +615,8 @@ care, kidney care, elder care and numerous surgical specialties.&lt;/p&gt;
       <description>
 
 &lt;h3 id=&#34;mentor-david-carlson-and-kevin-gao-comm100&#34;&gt;Mentor: David Carlson and Kevin Gao, Comm100&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Project Room: ORCH 4062&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
@@ -605,6 +672,8 @@ and achieve a better business performance.&lt;/p&gt;
       <description>
 
 &lt;h3 id=&#34;mentor-cameron-wallace&#34;&gt;Mentor: Cameron Wallace&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Project Room: ORCH 3072&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
