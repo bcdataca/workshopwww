@@ -55,14 +55,14 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 &lt;tr&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;13:30&lt;/td&gt;
-&lt;td&gt;Project 1&lt;/td&gt;
+&lt;td&gt;Project 5&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;13:30&lt;/td&gt;
 &lt;td&gt;14:00&lt;/td&gt;
-&lt;td&gt;Project 2&lt;/td&gt;
+&lt;td&gt;Project 4&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -83,14 +83,14 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 &lt;tr&gt;
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;15:30&lt;/td&gt;
-&lt;td&gt;Project 4&lt;/td&gt;
+&lt;td&gt;Project 2&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;15:30&lt;/td&gt;
 &lt;td&gt;16:00&lt;/td&gt;
-&lt;td&gt;Project 5&lt;/td&gt;
+&lt;td&gt;Project 1&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -160,10 +160,8 @@ form&lt;/a&gt;.&lt;/p&gt;
 (Head of Research at Technical Safety BC)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Michael Reid&lt;/strong&gt;&lt;br /&gt;
 (Software Development Manager at Amazon, Co-Founder of Nautilus Technologies)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ozge Uncu&lt;/strong&gt;&lt;br /&gt;
-(Senior Manager at KPMG)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lilian Wong&lt;/strong&gt;&lt;br /&gt;
-(Research Scientist at Amazon Vancouver)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parin Shah&lt;/strong&gt;__
+(Data Scientist at KPMG)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;speaker-bios&#34;&gt;Speaker Bios&lt;/h3&gt;
@@ -185,6 +183,16 @@ agency. After moving to Vancouver, he&amp;rsquo;s worked in software engineering
 companies ranging from small consulting firms to Amazon Web Services. He
 recently co-founded Nautilus Technologies, a machine learning and data privacy
 startup in Vancouver.&lt;/p&gt;
+
+&lt;p&gt;Parin is a Data Scientist at KPMG focused on solving machine learning and data
+engineering problems in the space of mining, gaming, insurance and social
+media. Previously, he spent 2.5 years helping develop the digital analytics
+practice for an e-commerce firm, Natural Wellbeing, where he worked on setting
+up data infrastructure, building consumer analytics models and website
+experimentation. Parin was a fellow at a UBC machine learning workshop and has
+an undergraduate degree from the University of British Columbia (UBC) with a
+coursework concentrated in economics with statistics and computer science
+electives.&lt;/p&gt;
 
 &lt;h3 id=&#34;moderated-questions&#34;&gt;Moderated Questions&lt;/h3&gt;
 
@@ -290,9 +298,23 @@ floor.&lt;/li&gt;
 
 &lt;tr&gt;
 &lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Liezl Van Wyk (SSR Mining)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:30&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Keith Walley (St. Paul’s Hospital)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00&lt;/td&gt;
 &lt;td&gt;11:30&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;Mentor presentations 1-3&lt;/td&gt;
+&lt;td&gt;Roger Donaldson (for SNC Lavalin)&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -307,6 +329,20 @@ floor.&lt;/li&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
 &lt;td&gt;Mentor presentations 4-5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;12:30&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;David Carlson (Comm100)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:30&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;ESB 2012&lt;/td&gt;
+&lt;td&gt;Graham Nelson-Zutter (CloudPBX)&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -429,7 +465,7 @@ floor.&lt;/li&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;14:30&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;Student presentations 1-3&lt;/td&gt;
+&lt;td&gt;Student presentations 5-3&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -443,7 +479,7 @@ floor.&lt;/li&gt;
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;16:00&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;Student presentations 4-5&lt;/td&gt;
+&lt;td&gt;Student presentations 2-1&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
