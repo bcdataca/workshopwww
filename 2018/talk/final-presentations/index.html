@@ -290,21 +290,21 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 <td>13:00</td>
 <td>13:30</td>
 <td>CloudPBX</td>
-<td></td>
+<td>Quality Analysis of CloudPBX VoIP Calls</td>
 </tr>
 
 <tr>
 <td>13:30</td>
 <td>14:00</td>
 <td>Comm100</td>
-<td></td>
+<td>Predicting Message Paths and Determining Conversation Intent from Live Chat Transcripts</td>
 </tr>
 
 <tr>
 <td>14:00</td>
 <td>14:30</td>
 <td>SNC-Lavalin</td>
-<td></td>
+<td>Interpolating Ship Paths</td>
 </tr>
 
 <tr>
@@ -329,6 +329,87 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 </tr>
 </tbody>
 </table>
+
+<h3 id="cloudpbx">CloudPBX</h3>
+
+<h4 id="quality-analysis-of-cloudpbx-voip-calls">Quality Analysis of CloudPBX VoIP Calls</h4>
+
+<p>CloudPBX is a “Voice over IP” telecommunication service provider. In this work,
+we address the central problem of evaluating the quality of their VoIP calls. By
+exploring the call data, we noticed that the current industry standard, MOS, was
+not sensitive enough to accurately represent the spectrum of call quality -
+therefore, we devised a new metric. Equipped with this new metric, we explored
+the correlations between call quality and relevant geographic and technological
+factors. These findings provide future direction for CloudPBX’s data collection,
+research, and business partnerships.</p>
+
+<h3 id="comm100">Comm100</h3>
+
+<h4 id="predicting-message-paths-and-determining-conversation-intent-from-live-chat-transcripts">Predicting Message Paths and Determining Conversation Intent from Live Chat Transcripts</h4>
+
+<p>We are given a data set from Comm100 and with this data set we predict the
+intent of conversations as well as cluster each message. We do this based on key
+word counts and other engineered features. We use the resulting clusters as
+states to build a Markov Chain transition matrix which models paths of messages
+between clusters, especially examining the visits to undesirable message states
+(angry users). We also implement an algorithmic (non-random) decision tree to
+categorically classify the conversation. We defined eight key topic categories
+based on the FAQ page from the Comm100 website.</p>
+
+<h3 id="snc-lavalin">SNC-Lavalin</h3>
+
+<h4 id="interpolating-ship-paths">Interpolating Ship Paths</h4>
+
+<p>The Port Metro Vancouver aims to reduce air emissions caused by ships, trucks,
+and equipment. In response to this request, SNC-Lavalin investigates, in
+particular, the emission patterns caused by using ship engines. This requires an
+extensive data frame including variables such as the current location, velocity
+and acceleration over time. This is useful when calculating the pollution and
+total emission of a ship as they can be computed partly from the velocity and
+acceleration of the vessel along the path. However, the location of ships are
+tracked irregularly and the data is corrupted and missing.</p>
+
+<p>In the PIMS BC Data Science Workshop, we aim to approximate the ship path from
+the measurement. The simplest model (interpolation of the path from consecutive
+measurements) does not provide the accuracy needed as it does not consider the
+noise and time between measurements. During this workshop, we developed a method
+based on the Kalman filter to resolve these issues. The model shows good
+performance both on current data with dense measurements and old data with
+sparser measurements. The next stage of the project is to cluster the paths in
+order to apply the knowledge gathered from densely sampled paths to sparsely
+sampled paths. This brings new challenges like defining a good metric for paths
+and number of clusters, which is still ongoing.</p>
+
+<h3 id="st-paul-s-hospital">St. Paul&rsquo;s Hospital</h3>
+
+<p>Sepsis is the leading cause of death in the intensive care unit
+worldwide. Despite having many environmental factors, septic shock can be
+significantly attributed to cytokines which are specialized proteins that
+regulate inflammation in the body. Understanding the correlation between the
+cytokine levels, as well as genes that code for them, is crucial in reducing the
+rates of mortality. We performed genome-wide association studies (GWAS) to
+determine which SNPs are correlated with mortality of septic patients. We also
+identified SNPs which are correlated with serum concentrations of various
+cytokines, determined the cytokines which are correlated with patient mortality,
+and trained various machine learning classifiers. We have identified several
+SNPs that correlate with mortality rates including one in the gene of a protein
+(PP1) that is found to regulate cytokine levels.</p>
+
+<h3 id="ssr-mining">SSR Mining</h3>
+
+<p>We explored a data set of 50 GB split into many categories and sub-components in
+the SSR mining company’s daily operations. This data records massive amounts of
+sensor information on the machine components in Hitachi haul trucks as well as
+weather data, location, job role, load value among many others. With all of
+this, we were tasked with exploring the alarm types and predicting under what
+conditions a costly breakdown would occur. Our analysis is multi-staged: first
+we considered the time series over the sensor data, next we compare when
+critical alarms signal against their GPS coordinates, lastly we sorted the
+critical alarms and performed a Principal Component Analysis (PCA) over the
+state of the truck to determine what the causes of the alarm were. Ultimately,
+we put together all of the these graphics to suggest a viable approach to build
+a predictive model for determining when a break-down will occur and what needs
+to be fixed to prevent this.</p>
 
     </div>
 
