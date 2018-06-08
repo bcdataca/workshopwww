@@ -84,14 +84,14 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;15:30&lt;/td&gt;
 &lt;td&gt;St. Paul&amp;rsquo;s&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;St. Paul Shenanigans - Or a deep look into cytokines&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;15:30&lt;/td&gt;
 &lt;td&gt;16:00&lt;/td&gt;
 &lt;td&gt;SSR Mining&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Exploratory Analysis and Failure Prediction of SSR Mining Trucks&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -148,6 +148,8 @@ and number of clusters, which is still ongoing.&lt;/p&gt;
 
 &lt;h3 id=&#34;st-paul-s-hospital&#34;&gt;St. Paul&amp;rsquo;s Hospital&lt;/h3&gt;
 
+&lt;h4 id=&#34;st-paul-shenanigans-or-a-deep-look-into-cytokines&#34;&gt;St. Paul Shenanigans - Or a deep look into cytokines&lt;/h4&gt;
+
 &lt;p&gt;Sepsis is the leading cause of death in the intensive care unit
 worldwide. Despite having many environmental factors, septic shock can be
 significantly attributed to cytokines which are specialized proteins that
@@ -162,6 +164,8 @@ SNPs that correlate with mortality rates including one in the gene of a protein
 (PP1) that is found to regulate cytokine levels.&lt;/p&gt;
 
 &lt;h3 id=&#34;ssr-mining&#34;&gt;SSR Mining&lt;/h3&gt;
+
+&lt;h4 id=&#34;exploratory-analysis-and-failure-prediction-of-ssr-mining-trucks&#34;&gt;Exploratory Analysis and Failure Prediction of SSR Mining Trucks&lt;/h4&gt;
 
 &lt;p&gt;We explored a data set of 50 GB split into many categories and sub-components in
 the SSR mining company’s daily operations. This data records massive amounts of
