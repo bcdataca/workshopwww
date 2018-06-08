@@ -55,22 +55,22 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 &lt;tr&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;13:30&lt;/td&gt;
-&lt;td&gt;CloudPBX&lt;/td&gt;
-&lt;td&gt;Quality Analysis of CloudPBX VoIP Calls&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#cloudpbx&#34;&gt;CloudPBX&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#quality-analysis-of-cloudpbx-voip-calls&#34;&gt;Quality Analysis of CloudPBX VoIP Calls&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;13:30&lt;/td&gt;
 &lt;td&gt;14:00&lt;/td&gt;
-&lt;td&gt;Comm100&lt;/td&gt;
-&lt;td&gt;Predicting Message Paths and Determining Conversation Intent from Live Chat Transcripts&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#comm100&#34;&gt;Comm100&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#predicting-message-paths-and-determining-conversation-intent-from-live-chat-transcripts&#34;&gt;Predicting Message Paths and &lt;/br&gt;Determining Conversation Intent &lt;/br&gt;from Live Chat Transcripts&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;14:00&lt;/td&gt;
 &lt;td&gt;14:30&lt;/td&gt;
-&lt;td&gt;SNC-Lavalin&lt;/td&gt;
-&lt;td&gt;Interpolating Ship Paths&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#snc-lavalin&#34;&gt;SNC-Lavalin&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#interpolating-ship-paths&#34;&gt;Interpolating Ship Paths&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -83,15 +83,15 @@ industry mentors in a 20 minute presentation (plus 10 minutes for questions) in 
 &lt;tr&gt;
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;15:30&lt;/td&gt;
-&lt;td&gt;St. Paul&amp;rsquo;s&lt;/td&gt;
-&lt;td&gt;St. Paul Shenanigans - Or a deep look into cytokines&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#st-paul-s-hospital&#34;&gt;St. Paul&amp;rsquo;s&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#st-paul-shenanigans-or-a-deep-look-into-cytokines&#34;&gt;St. Paul Shenanigans - &lt;/br&gt;Or a deep look into cytokines&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;15:30&lt;/td&gt;
 &lt;td&gt;16:00&lt;/td&gt;
-&lt;td&gt;SSR Mining&lt;/td&gt;
-&lt;td&gt;Exploratory Analysis and Failure Prediction of SSR Mining Trucks&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#ssr-mining&#34;&gt;SSR Mining&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;./#exploratory-analysis-and-failure-prediction-of-ssr-mining-trucks&#34;&gt;Exploratory Analysis and Failure &lt;/br&gt;Prediction of SSR Mining Trucks&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -572,21 +572,21 @@ floor.&lt;/li&gt;
 &lt;td&gt;13:00&lt;/td&gt;
 &lt;td&gt;13:30&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;CloudPBX&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../final-presentations/#cloudpbx&#34;&gt;CloudPBX project presentation&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;13:30&lt;/td&gt;
 &lt;td&gt;14:00&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;Comm100&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../final-presentations/#comm100&#34;&gt;Comm100 project presentation&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;14:00&lt;/td&gt;
 &lt;td&gt;14:30&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;SNC-Lavalin&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../final-presentations/#snc-lavalin&#34;&gt;SNC-Lavalin project presentation&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -600,14 +600,14 @@ floor.&lt;/li&gt;
 &lt;td&gt;15:00&lt;/td&gt;
 &lt;td&gt;15:30&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;St. Paul&amp;rsquo;s&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../final-presentations/#st-paul-s-hospital&#34;&gt;St. Paul&amp;rsquo;s project presentation&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;15:30&lt;/td&gt;
 &lt;td&gt;16:00&lt;/td&gt;
 &lt;td&gt;ESB 2012&lt;/td&gt;
-&lt;td&gt;SSR Mining&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../final-presentations/#ssr-mining&#34;&gt;SSR Mining project presentation&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
