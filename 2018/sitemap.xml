@@ -20,6 +20,30 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/post/1-ssr-project/</loc>
+      <lastmod>2018-06-08T19:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/post/2-stpaul-project/</loc>
+      <lastmod>2018-06-08T18:59:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/post/4-comm100/</loc>
+      <lastmod>2018-06-08T18:57:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/talk/pizza-dinner/</loc>
       <lastmod>2018-06-07T18:00:00-07:00</lastmod>
     </url>
@@ -210,6 +234,15 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/comm100/</loc>
+      <lastmod>2018-06-08T18:57:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/tags/computing/</loc>
       <lastmod>2018-05-06T19:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -237,6 +270,15 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/final/</loc>
+      <lastmod>2018-06-08T19:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/tags/genetics/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -257,6 +299,15 @@
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/geophysics/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/hospital/</loc>
+      <lastmod>2018-06-08T18:59:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -301,7 +352,7 @@
     
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/mining/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-08T19:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -328,7 +379,7 @@
     
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/nlp/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-08T18:57:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -356,6 +407,15 @@
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/probabilistic-modeling/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/project/</loc>
+      <lastmod>2018-06-08T19:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -392,6 +452,24 @@
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/scientific/</loc>
       <lastmod>2018-05-06T19:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/ssr/</loc>
+      <lastmod>2018-06-08T19:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/stpaul/</loc>
+      <lastmod>2018-06-08T18:59:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
