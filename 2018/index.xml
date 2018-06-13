@@ -199,14 +199,12 @@ lounge&lt;/a&gt; (LSK 311).&lt;/p&gt;
     </item>
     
     <item>
-      <title>Career Panel</title>
+      <title>Career Panel at KPMG</title>
       <link>http://workshop.bcdata.ca/2018/talk/career-panel/</link>
       <pubDate>Wed, 06 Jun 2018 18:00:00 -0700</pubDate>
       
       <guid>http://workshop.bcdata.ca/2018/talk/career-panel/</guid>
       <description>
-
-&lt;h2 id=&#34;career-panel-at-kpmg&#34;&gt;Career panel at KPMG&lt;/h2&gt;
 
 &lt;!--
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -214,27 +212,32 @@ lounge&lt;/a&gt; (LSK 311).&lt;/p&gt;
  &lt;/div&gt;
 --&gt;
 
+&lt;p&gt;&lt;img src=&#34;../../img/careerpanel/cp15.jpg&#34; alt=&#34;Participant asking a question during the Q&amp;A session. Photo credit: Miguel Eichelberger (PIMS).&#34;/&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;On the evening of June 6th, BC Data Science workshop participants
-will gather at &lt;a href=&#34;https://goo.gl/maps/8qcjD5NUwRF2&#34; target=&#34;_blank&#34;&gt;KPMG headquarters&lt;/a&gt;
-for a career panel and social event. The panel discusses non-academic
+gathered at &lt;a href=&#34;https://goo.gl/maps/8qcjD5NUwRF2&#34; target=&#34;_blank&#34;&gt;KPMG headquarters&lt;/a&gt;
+for a career panel and social event. The panel discussed non-academic
 career options for math-inclined folk; how to be prepared
 for industry jobs and job interviews; and what differences to expect
 in industry. More broadly, the panelists discussed career success,
 personal values, and strategies for achieving career-oriented goals.&lt;/p&gt;
 
-&lt;p&gt;The panel includes folk with a range of perspectives: from long-time industry
+&lt;p&gt;The panel included folk with a range of perspectives: from long-time industry
 folk to recent graduates in mathematics/statistics now working in industry. It
-includes current and past employees of major tech companies and current start-up
-leadership roles.&lt;/p&gt;
+included current and past employees of major tech companies and current start-up
+leadership roles. See below for &lt;a href=&#34;./#our-panelists&#34;&gt;panelists&lt;/a&gt; and &lt;a href=&#34;./#speaker-bios&#34;&gt;speaker bios&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;A reception follows from 7:00 to 8:00 PM.&lt;/p&gt;
+&lt;p&gt;After the moderated portion of the career panel, a lively and engaging reception followed a student Q&amp;amp;A session.&lt;/p&gt;
 
-&lt;h2 id=&#34;registration&#34;&gt;Registration&lt;/h2&gt;
+&lt;!-- ## Registration --&gt;
 
-&lt;p&gt;If you plan to attend the career panel, please fill out the &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcvnjQ_plcr4JBu02uQ/viewform&#34; target=&#34;_blank&#34;&gt;registration
-form&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- If you plan to attend the career panel, please fill out the [registration --&gt;
+
+&lt;!-- form](https://docs.google.com/forms/d/e/1FAIpQLSdPjrr84t8KjaBdPQvMgDOvhEHYQViwcvnjQ_plcr4JBu02uQ/viewform). --&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/careerpanel/cp17.jpg&#34; alt=&#34;students listening to the panelists.&#34;/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;our-panelists&#34;&gt;Our panelists&lt;/h2&gt;
 
@@ -251,7 +254,7 @@ form&lt;/a&gt;.&lt;/p&gt;
 (ML Scientist and Software Engineer at Synaptitude Brain Health)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;speaker-bios&#34;&gt;Speaker Bios&lt;/h3&gt;
+&lt;h2 id=&#34;speaker-bios&#34;&gt;Speaker Bios&lt;/h2&gt;
 
 &lt;p&gt;Bernard Chan is currently a data scientist at
 &lt;a href=&#34;http://builddirect.com/&#34; target=&#34;_blank&#34;&gt;BuildDirect.com&lt;/a&gt; (BD), an e-commerce platform in
