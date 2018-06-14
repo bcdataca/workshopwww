@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudpbx on bcdata</title>
+    <link>http://workshop.bcdata.ca/2018/tags/cloudpbx/</link>
+    <description>Recent content in Cloudpbx on bcdata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 bcdata.ca</copyright>
+    <lastBuildDate>Fri, 08 Jun 2018 18:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://workshop.bcdata.ca/2018/tags/cloudpbx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CloudPBX Final Project</title>
+      <link>http://workshop.bcdata.ca/2018/post/5-cloudpbx-project/</link>
+      <pubDate>Fri, 08 Jun 2018 18:56:00 +0000</pubDate>
+      
+      <guid>http://workshop.bcdata.ca/2018/post/5-cloudpbx-project/</guid>
+      <description>This is the final project presentation by the CloudPBX project team. A pdf download of the slides submitted by the CloudPBX project team is available here.</description>
+    </item>
+    
+  </channel>
+</rss>
