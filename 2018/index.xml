@@ -231,9 +231,17 @@ download of the slides submitted by the Comm100 project team is
       <guid>http://workshop.bcdata.ca/2018/post/5-cloudpbx-project/</guid>
       <description>&lt;p&gt;This is the final project presentation by the CloudPBX project team. A pdf
 download of the slides submitted by the CloudPBX project team is
-&lt;a href=&#34;../../finalpres/cloudpbx-slides.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../../finalpres/cloudpbx-slides.pdf&#34;&gt;available here&lt;/a&gt;, and a webapp visualization is available on &lt;a href=&#34;http://www.mentasti.net/cloud-pbx/mapping/index.html&#34; target=&#34;_blank&#34;&gt;Julian Mentasti&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;embed src=&#34;../../finalpres/cloudpbx-slides.pdf&#34; width=&#34;800px&#34; height=&#34;975px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;embed  
+    src=&#34;../../finalpres/cloudpbx-slides.pdf&#34; 
+    style=&#34;width:800px; height:975px;&#34; /&gt;&lt;/p&gt;
+
+&lt;!-- &lt;embed  --&gt;
+
+&lt;!--    src=&#34;http://www.mentasti.net/cloud-pbx/mapping/index.html&#34; --&gt;
+
+&lt;!--    style=&#34;border:1px solid black; width:725px; height:500px;&#34; /&gt; --&gt;
 </description>
     </item>
     
