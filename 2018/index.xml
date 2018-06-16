@@ -230,8 +230,13 @@ download of the slides submitted by the Comm100 project team is
       
       <guid>http://workshop.bcdata.ca/2018/post/5-cloudpbx-project/</guid>
       <description>&lt;p&gt;This is the final project presentation by the CloudPBX project team. A pdf
-download of the slides submitted by the CloudPBX project team is
-&lt;a href=&#34;../../finalpres/cloudpbx-slides.pdf&#34;&gt;available here&lt;/a&gt;, and a webapp visualization is available on &lt;a href=&#34;http://www.mentasti.net/cloud-pbx/mapping/index.html&#34; target=&#34;_blank&#34;&gt;Julian Mentasti&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
+download of the slides submitted by the CloudPBX project team is &lt;a href=&#34;../../finalpres/cloudpbx-slides.pdf&#34;&gt;available
+here&lt;/a&gt;, and a webapp visualization is
+available on &lt;a href=&#34;http://www.mentasti.net/cloud-pbx/mapping/index.html&#34; target=&#34;_blank&#34;&gt;Julian Mentasti&amp;rsquo;s
+website&lt;/a&gt;. Finally, a gist
+of a portion of the group&amp;rsquo;s code is &lt;a href=&#34;https://gist.github.com/asberk/8d769f602a55f0f81e289db6822ef58e&#34; target=&#34;_blank&#34;&gt;available
+here&lt;/a&gt; as
+Jupyter notebooks.&lt;/p&gt;
 
 &lt;p&gt;&lt;embed  
     src=&#34;../../finalpres/cloudpbx-slides.pdf&#34; 
@@ -242,6 +247,8 @@ download of the slides submitted by the CloudPBX project team is
 &lt;!--    src=&#34;http://www.mentasti.net/cloud-pbx/mapping/index.html&#34; --&gt;
 
 &lt;!--    style=&#34;border:1px solid black; width:725px; height:500px;&#34; /&gt; --&gt;
+
+&lt;script src=&#34;https://gist.github.com/asberk/8d769f602a55f0f81e289db6822ef58e.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
