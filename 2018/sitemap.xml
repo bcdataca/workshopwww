@@ -28,6 +28,14 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/post/2-stpaul-project/</loc>
+      <lastmod>2018-06-08T18:59:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/post/3-snc-project/</loc>
       <lastmod>2018-06-08T18:58:00+00:00</lastmod>
     </url>
@@ -323,6 +331,15 @@
     
     
     <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/hospital/</loc>
+      <lastmod>2018-06-08T18:59:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://workshop.bcdata.ca/2018/tags/inference/</loc>
       <lastmod>2018-05-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -496,6 +513,15 @@
     <url>
       <loc>http://workshop.bcdata.ca/2018/tags/ssr/</loc>
       <lastmod>2018-06-08T19:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://workshop.bcdata.ca/2018/tags/stpaul/</loc>
+      <lastmod>2018-06-08T18:59:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
