@@ -298,7 +298,14 @@ lounge&lt;/a&gt; (LSK 311).&lt;/p&gt;
  &lt;/div&gt;
 --&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/careerpanel/cp15.jpg&#34; alt=&#34;Participant asking a question during the Q&amp;A session. Photo credit: Miguel Eichelberger (PIMS).&#34;/&gt;&lt;/p&gt;
+&lt;video id=0 controls max-width=&#34;720px&#34; height=&#34;auto&#34;&gt; 
+    &lt;source src=&#34;http://www.mathtube.org/sites/default/files/videos/converted/2018-BCDataPanel_Merge(2).mp4&#34; type=&#34;video/mp4&#34; /&gt; 
+    &lt;source src=&#34;http://www.mathtube.org/sites/default/files/videos/converted/2018-BCDataPanel_Merge(2).flv&#34; type=&#34;video/flv&#34;&gt;
+    &lt;source src=&#34;http://www.mathtube.org/sites/default/files/videos/converted/2018-BCDataPanel_Merge(2).webm&#34; type=&#34;video/webm&#34;&gt;
+    &lt;p&gt;
+        Video recording of career panel.
+    &lt;/p&gt;
+&lt;/video&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
@@ -389,6 +396,8 @@ actively publishes in the area of speech processing. He is a named co-inventor
 on two issued patents in the area of speech processing, and one filed patent in
 the area of wearable devices. He is a co-organizer of the AI in Production, and
 Natural Language Processing meetups in Vancouver.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/careerpanel/cp15.jpg&#34; alt=&#34;Participant asking a question during the Q&amp;A session. Photo credit: Miguel Eichelberger (PIMS).&#34;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;moderated-questions&#34;&gt;Moderated Questions&lt;/h3&gt;
 
